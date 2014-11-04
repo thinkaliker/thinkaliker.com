@@ -3,7 +3,7 @@
 
     <dl class="dl-horizontal">
         <dt><p class="link"><a href="http://www.twitter.com/thinkaliker" target="_blank">Twitter</a></p></dt>
-        <dd class="pull-left"><p class=""><iframe allowtransparency="true" frameborder="0" scrolling="no" src="//platform.twitter.com/widgets/follow_button.html?screen_name=thinkaliker" style="width:150px; height:20px;"></iframe></p></dd>
+        <dd class="pull-left"><p class=""><iframe allowtransparency="true" frameborder="0" scrolling="no" src="//platform.twitter.com/widgets/follow_button.html?screen_name=thinkaliker" style="width:300px; height:20px;"></iframe></p></dd>
     
         <dt><p class="link"><a href="http://www.youtube.com/thinkaliker" target="_blank">YouTube</a></p></dt>
         <dd class="pull-left"><p class=""><div class="g-ytsubscribe" data-channel="thinkaliker" data-layout="default"></div></p></dd>
@@ -12,7 +12,7 @@
         <dd class="pull-left"><a href="http://instagram.com/thinkaliker?ref=badge" class="ig-b- ig-b-v-24"><img src="//badges.instagram.com/static/images/ig-badge-view-24.png" alt="Instagram" /></a></dd>
     
         <dt height="63"><p class="link"><a href="http://www.facebook.com/thinkaliker" target="_blank">Facebook</a></p></dt>
-        <dd class="pull-left"><iframe src="//www.facebook.com/plugins/follow.php?href=https%3A%2F%2Fwww.facebook.com%2Fthinkaliker&amp;width&amp;height=35&amp;colorscheme=dark&amp;layout=button&amp;show_faces=false" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:35px;" allowTransparency="true"></iframe></dd>
+        <dd class="pull-left"><iframe src="//www.facebook.com/plugins/follow.php?href=https%3A%2F%2Fwww.facebook.com%2Fthinkaliker&amp;width&amp;height=35&amp;colorscheme=dark&amp;layout=button&amp;show_faces=false" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:35px; padding-top:5px;" allowTransparency="true"></iframe></dd>
     
         <dt><p class="link"><a href="http://plus.google.com/+AdamChao" target="_blank">Google+</a></p></dt>
         <dd class="pull-left"><a href="//plus.google.com/+AdamChao" rel="publisher" target="_top" style="text-decoration:none;display:inline-block;color:#fff;text-align:center; font:13px/16px arial,sans-serif;white-space:nowrap;">
