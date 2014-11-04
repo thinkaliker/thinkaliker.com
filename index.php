@@ -3,7 +3,7 @@
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="author" content="Site, design, server by thinkaliker aka Adam" />
-	<meta name="wot-verification" content="971c16549675db3d6b09"/>
+	<meta name="wot-verification" content="16fa5970de0f373efdee"/>
     <meta property="twitter:account_id" content="89368548" />
 	<link href="cautionstripes_favicon.ico" rel="shortcut icon" />
     <link href="/bootstrap/css/bootstrap.min.css" rel="stylesheet">

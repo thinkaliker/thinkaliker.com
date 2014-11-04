@@ -3,7 +3,7 @@
 
     <dl class="dl-horizontal">
         <dt><p class="link"><a href="http://www.twitter.com/thinkaliker" target="_blank">Twitter</a></p></dt>
-        <dd class="pull-left"><p class=""><iframe allowtransparency="true" frameborder="0" scrolling="no" src="//platform.twitter.com/widgets/follow_button.html?screen_name=thinkaliker" style="width:100px; height:20px;"></iframe></p></dd>
+        <dd class="pull-left"><p class=""><iframe allowtransparency="true" frameborder="0" scrolling="no" src="//platform.twitter.com/widgets/follow_button.html?screen_name=thinkaliker" style="width:150px; height:20px;"></iframe></p></dd>
     
         <dt><p class="link"><a href="http://www.youtube.com/thinkaliker" target="_blank">YouTube</a></p></dt>
         <dd class="pull-left"><p class=""><div class="g-ytsubscribe" data-channel="thinkaliker" data-layout="default"></div></p></dd>
