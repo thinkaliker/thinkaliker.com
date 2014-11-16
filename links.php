@@ -33,6 +33,9 @@
     
         <dt><p class="link"><a href="http://steamcommunity.com/id/thinkaliker/">Steam</a></p></dt>
         <dd class="pull-left">Video Games!</dd>
+
+        <dt><p class="link"><a href="http://twitch.tv/thinkaliker/">Twitch</a></p></dt>
+        <dd class="pull-left">Twitch streaming!</dd>
     
         <dt><p class="link"><a href="http://www.soundcloud.com/thinkaliker" target="_blank">Soundcloud</a></p></dt>
         <dd class="pull-left">Music!</dd>
