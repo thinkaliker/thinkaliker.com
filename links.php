@@ -18,6 +18,9 @@
         <dd class="pull-left"><a href="//plus.google.com/+AdamChao" rel="publisher" target="_top" style="text-decoration:none;display:inline-block;color:#fff;text-align:center; font:13px/16px arial,sans-serif;white-space:nowrap;">
     <span style="display:inline-block;font-weight:bold;vertical-align:top;margin-right:5px; margin-top:8px;">Adam</span><span style="display:inline-block;vertical-align:top;margin-right:15px; margin-top:8px;">on</span>
     <img src="//ssl.gstatic.com/images/icons/gplus-32.png" alt="Google+" style="border:0;width:32px;height:32px;"/></a></dd>
+
+        <dt><p class="link"><a href="http://adamchao.me" target="_blank">About.me</a></p></dt>
+        <dd class="pull-left">About.me (http://adamchao.me)</dd>
     
         <dt><p class="link"><a href="http://vine.co/thinkaliker" target="_blank">Vine</a></p></dt>
         <dd class="pull-left">Vine!</dd>
@@ -36,6 +39,9 @@
 
         <dt><p class="link"><a href="http://twitch.tv/thinkaliker/">Twitch</a></p></dt>
         <dd class="pull-left">Twitch streaming!</dd>
+
+        <dt><p class="link"><a href="http://player.me/thinkaliker">Player.me</a></p></dt>
+        <dd class="pull-left">Player.me profile!</dd>
     
         <dt><p class="link"><a href="http://www.soundcloud.com/thinkaliker" target="_blank">Soundcloud</a></p></dt>
         <dd class="pull-left">Music!</dd>
