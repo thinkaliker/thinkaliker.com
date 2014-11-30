@@ -96,7 +96,7 @@
        
           <div class="masthead clearfix">
             <div class="inner">
-              <h3 class="masthead-brand"><img src="cautionstripes_small.png" width="30" height="30" alt="Caution Stripes" /> thinkaliker</h3>
+                <h3 class="masthead-brand"><a class="headerlink" href="/index.php"><img src="cautionstripes_small.png" width="30" height="30" alt="Caution Stripes" /> thinkaliker</a></h3>
               <ul class="nav masthead-nav">
                 <li id="home-button"><a>Home</a></li>
                 <li><a href="/blog">Blog</a></li>

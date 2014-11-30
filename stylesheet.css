@@ -20,7 +20,9 @@ html,body{
 	min-width:450px;
 }
 
-
+.headerlink:hover {
+        text-decoration: none;
+}
 
 body{
 	font-family: segoeui;
