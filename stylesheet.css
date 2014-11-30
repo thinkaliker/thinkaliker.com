@@ -1,9 +1,7 @@
 @charset "utf-8";
 @font-face
 {
-font-family: segoeui;
-src:url('segoeui.ttf'),
-	url('segoeui.eot'); /* IE9+ */
+    font-family: 'Source Sans Pro', sans-serif;
 }
 span{
 	display:none;

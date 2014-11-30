@@ -2,13 +2,14 @@
 <html lang="en">
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="author" content="Site, design, server by thinkaliker aka Adam" />
+	<meta name="author" content="thinkaliker (Adam Chao)" />
 	<meta name="wot-verification" content="16fa5970de0f373efdee"/>
     <meta property="twitter:account_id" content="89368548" />
 	<link href="cautionstripes_favicon.ico" rel="shortcut icon" />
     <link href="/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link href="cover.css" rel="stylesheet">
     <link href="stylesheet.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro' rel='stylesheet' type='text/css'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <style>
       a { cursor: pointer; cursor: hand; }
