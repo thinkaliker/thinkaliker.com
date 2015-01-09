@@ -10,7 +10,7 @@
     <link href="/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link href="cover.css" rel="stylesheet">
     <link href="stylesheet.css" rel="stylesheet">
-    <link href='//fonts.googleapis.com/css?family=Source+Sans+Pro' rel='stylesheet' type='text/css'>
+    <link href='//fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
     <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.3.8/angular.min.js"></script>
@@ -20,6 +20,20 @@
     <script src="bootstrap/js/page.js"></script>
     <script src="//apis.google.com/js/plusone.js"></script>
 
+    <script type="text/javascript">
+          WebFontConfig = {
+            google: { families: [ 'Roboto::latin' ] }
+          };
+          (function() {
+            var wf = document.createElement('script');
+            wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+              '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+            wf.type = 'text/javascript';
+            wf.async = 'true';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(wf, s);
+          })();
+    </script>
     <style>
         .ig-b- {
             display: inline-block;
@@ -54,14 +68,14 @@
         }(document, "script", "twitter-wjs");
     </script>
 
-    <title ng-bind="vewTitle ? 'thinkaliker | ' + viewTitle : 'thinkaliker | Home">thinkaliker</title>
+    <title ng-bind="viewTitle ? 'thinkaliker | ' + viewTitle : 'thinkaliker | Home'">thinkaliker</title>
 
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
       <script src="//oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
       <script src="//oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
-    <base href="/index.php">
+    <base href="/">
 </head>
 
 <body class="homepage" ng-controller="mainController">
@@ -73,7 +87,7 @@
                         <h3 class="masthead-brand"><a class="headerlink" href="/"><img src="cautionstripes_small.png" width="30" height="30" alt="Caution Stripes" /> thinkaliker</a></h3>
                         <ul class="nav masthead-nav">
                             <li><a href="/">Home</a></li>
-                            <li><a href="/blog">Blog</a></li>
+                            <li><a href="/blog" target="_blank">Blog</a></li>
                             <li><a href="projects">Projects</a></li>
                             <li><a href="about">About</a><li>
                             <li><a href="links">Links</a></li>
