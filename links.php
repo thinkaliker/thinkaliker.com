@@ -1,4 +1,7 @@
+
 <div class="inner cover" id="links">
+    <view-title>Links</view-title>
+
     <h2 class="cover-heading text-center">Links <small>(where to find me)</small></h2>
 
     <dl class="dl-horizontal">

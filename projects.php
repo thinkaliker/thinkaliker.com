@@ -1,4 +1,6 @@
+
 <div class="inner cover" id="projects">
+    <view-title>Projects</view-title>
     <h2 class="cover-heading">Projects<small> (Stuff I'm working on)</small></h2>
     <h3>Github</h3>
         <li class="link"><p class="lead"><a href="http://github.com/thinkaliker" target="_blank">Github</a> - this is what you wanted, right? Repositories and more.</p></li>
