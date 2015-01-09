@@ -1,7 +1,8 @@
 @charset "utf-8";
+@import url(//fonts.googleapis.com/css?family=Roboto);
 @font-face
 {
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 span{
 	display:none;
@@ -9,6 +10,7 @@ span{
 
 html{
 	font-size:100%;
+    font-family: 'Roboto', sans-serif;
 	overflow-y:scroll;
 }
 html,body{
@@ -24,24 +26,18 @@ html,body{
         text-decoration: none;
 }
 
-body{
-	font-family: segoeui;
+body {
+    font-family: 'Roboto', sans-serif;
+    -webkit-animation-delay: 0.1s;
+    -webkit-animation-name: fontfix;
+    -webkit-animation-duration: 0.1s;
+    -webkit-animation-iteration-count: 1;
+    -webkit-animation-timing-function: linear;
 }
-#one{
-	background-color:#06F;
-	color:#EEE;
-	font-size:30px;
 
-}
-#two{
-	background-color:#FC0;
-	font-size:20px;
-	color:#222;
-}
-#three{
-	background-color:#900;
-	color:#CCCCCC;
-	font-size:20px;
+@-webkit-keyframes fontfix {
+    from { opacity: 1; }
+    to   { opacity: 1; }
 }
 .section {
 	position: relative;
