@@ -31,7 +31,7 @@ app.config(function($routeProvider, $locationProvider) {
     );
     $routeProvider.otherwise(
         {
-            redirectTo: '/home.php'
+            redirectTo: '/'
         }
     );
     $locationProvider.html5Mode(true);
