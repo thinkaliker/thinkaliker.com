@@ -17,7 +17,7 @@
 
           <div class="masthead clearfix">
             <div class="inner">
-              <h3 class="masthead-brand"><img src="http://thinkaliker.com/cautionstripes_small.png" width="30" height="30" alt="Caution Stripes" /> thinkaliker</h3>
+                <h3 class="masthead-brand"><a class="headerlink" href="/"><img src="http://thinkaliker.com/cautionstripes_small.png" width="30" height="30" alt="Caution Stripes" /> thinkaliker</a></h3>
             </div>
           </div>
 
