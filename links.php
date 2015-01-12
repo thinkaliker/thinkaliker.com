@@ -23,7 +23,7 @@
     <img src="//ssl.gstatic.com/images/icons/gplus-32.png" alt="Google+" style="border:0;width:32px;height:32px;"/></a></dd>
 
         <dt><p class="link"><a href="http://adamchao.me" target="_blank">About.me</a></p></dt>
-        <dd class="pull-left">About.me (http://adamchao.me)</dd>
+        <dd class="pull-left">About.me profile!</dd>
     
         <dt><p class="link"><a href="http://vine.co/thinkaliker" target="_blank">Vine</a></p></dt>
         <dd class="pull-left">Vine!</dd>
@@ -34,8 +34,8 @@
     <img src="//ssl.gstatic.com/images/icons/gplus-32.png" alt="Google+" style="border:0;width:32px;height:32px;"/></a></dd>
     
     
-        <dt><p class="link"><a href="http://www.linkedin.com/pub/adam-chao/80/926/4a7" target="_blank">LinkedIn</a></p></dt>
-        <dd class="pull-left"><a href="http://www.linkedin.com/pub/adam-chao/80/926/4a7"><img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_liprofile_blue_80x15.png" width="80" height="15" border="0" alt="View Adam Chao's profile on LinkedIn"></a></dd>
+        <dt><p class="link"><a href="http://www.linkedin.com/in/adamchao1" target="_blank">LinkedIn</a></p></dt>
+        <dd class="pull-left"><a href="http://www.linkedin.com/in/adamchao1"><img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_liprofile_blue_80x15.png" width="80" height="15" border="0" alt="View Adam Chao's profile on LinkedIn"></a></dd>
     
         <dt><p class="link"><a href="http://steamcommunity.com/id/thinkaliker/">Steam</a></p></dt>
         <dd class="pull-left">Video Games!</dd>
