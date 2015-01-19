@@ -10,15 +10,15 @@
     <link href="/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link href="cover.css" rel="stylesheet">
     <link href="stylesheet.css" rel="stylesheet">
-    <link href='//fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+    <link href="//fonts.googleapis.com/css?family=Roboto" rel='stylesheet' type='text/css'>
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.3.8/angular.min.js"></script>
-    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.3.8/angular-route.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.3.5/angular.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.3.5/angular-route.min.js"></script>
     <script src="bootstrap/js/angularjs-viewhead.js"></script>
-    <script src="bootstrap/js/bootstrap.min.js"></script>
     <script src="bootstrap/js/page.js"></script>
-    <script src="//apis.google.com/js/plusone.js"></script>
+
 
     <script type="text/javascript">
           WebFontConfig = {
@@ -33,39 +33,6 @@
             var s = document.getElementsByTagName('script')[0];
             s.parentNode.insertBefore(wf, s);
           })();
-    </script>
-    <style>
-        .ig-b- {
-            display: inline-block;
-        }
-        .ig-b- img {
-            visibility: hidden;
-        }
-        .ig-b-:hover {
-            background-position: 0 -60px;
-        }
-        .ig-b-:active {
-            background-position: 0 -120px;
-        }
-        .ig-b-v-24 {
-            width: 137px; height: 24px; background: url(//badges.instagram.com/static/images/ig-badge-view-sprite-24.png) no-repeat 0 0; }
-            @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2 / 1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
-                .ig-b-v-24 {
-                    background-image: url(//badges.instagram.com/static/images/ig-badge-view-sprite-24@2x.png);
-                    background-size: 160px 178px;
-                }
-            }
-    </style>
-    <script>
-        ! function(d, s, id) {
-            var js, fjs = d.getElementsByTagName(s)[0];
-            if (!d.getElementById(id)) {
-                js = d.createElement(s);
-                js.id = id;
-                js.src = "//platform.twitter.com/widgets.js";
-                fjs.parentNode.insertBefore(js, fjs);
-            }
-        }(document, "script", "twitter-wjs");
     </script>
 
     <title ng-bind="viewTitle ? 'thinkaliker | ' + viewTitle : 'thinkaliker | Home'">thinkaliker</title>
