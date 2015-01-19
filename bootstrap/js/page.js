@@ -29,9 +29,39 @@ app.config(function($routeProvider, $locationProvider) {
             templateUrl: '/links.php'
         }
     );
+    $routeProvider.when(
+        '/400',
+        {
+            templateUrl: '/400.php'
+        }
+    );
+    $routeProvider.when(
+        '/401',
+        {
+            templateUrl: '/401.php'
+        }
+    );
+    $routeProvider.when(
+        '/403',
+        {
+            templateUrl: '/403.php'
+        }
+    );
+    $routeProvider.when(
+        '/404',
+        {
+            templateUrl: '/404.php'
+        }
+    );
+    $routeProvider.when(
+        '/500',
+        {
+            templateUrl: '/500.php'
+        }
+    );
     $routeProvider.otherwise(
         {
-            redirectTo: '/'
+            redirectTo: '/404'
         }
     );
     $locationProvider.html5Mode(true);
