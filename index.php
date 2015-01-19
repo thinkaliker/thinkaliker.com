@@ -6,14 +6,14 @@
     <meta name="author" content="thinkaliker (Adam Chao)" />
     <meta name="wot-verification" content="16fa5970de0f373efdee" />
     <meta property="twitter:account_id" content="89368548" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
     <link href="/cautionstripes_favicon.ico" rel="shortcut icon" />
     <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css" rel="stylesheet">
     <link href="/css/cover.css" rel="stylesheet">
     <link href="/css/stylesheet.css" rel="stylesheet">
     <link href="//fonts.googleapis.com/css?family=Roboto" rel='stylesheet' type='text/css'>
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-
     <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.3.5/angular.min.js"></script>
     <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.3.5/angular-route.min.js"></script>
     <script src="/js/angularjs-viewhead.js"></script>
