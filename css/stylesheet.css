@@ -1,30 +1,26 @@
 @charset "utf-8";
 @import url(//fonts.googleapis.com/css?family=Roboto);
 @font-face
+
 {
     font-family: 'Roboto', sans-serif;
 }
-span{
-	display:none;
+span {
+    display: none;
 }
-
-html{
-	font-size:100%;
+html {
+    font-size: 100%;
     font-family: 'Roboto', sans-serif;
 }
-html,body{
-	margin:0;
-	padding:0;
-	width:100%;
-	height:100%;
-	min-height:500px;
-	min-width:450px;
+html,
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    min-height: 500px;
+    min-width: 450px;
 }
-
-.headerlink:hover {
-        text-decoration: none;
-}
-
 body {
     font-family: 'Roboto', sans-serif;
     -webkit-animation-delay: 0.1s;
@@ -33,108 +29,70 @@ body {
     -webkit-animation-iteration-count: 1;
     -webkit-animation-timing-function: linear;
 }
-
 @-webkit-keyframes fontfix {
-    from { opacity: 1; }
-    to   { opacity: 1; }
+    from {
+        opacity: 1;
+    }
+    to {
+        opacity: 1;
+    }
+}
+a {
+    text-decoration: none;
+}
+a:visited {
+    color: #500;
+}
+a:hover {
+    color: #E00;
+}
+a:active {
+    text-decoration: none;
+}
+.headerlink:visited {
+    color: #FFF;
+    text-decoration: none;
+}
+.headerlink:hover {
+    text-decoration: none;
 }
 .section {
-	position: relative;
-	height:100%;
-	min-height:height;
-	padding-bottom:10px;
+    position: relative;
+    height: 100%;
+    min-height: height;
+    padding-bottom: 10px;
 }
 .content {
-	font-family:segoeui;
-	list-style:none;
-	list-style-type: none;
-	padding:20px;
-	text-align:right;
-
+    list-style: none;
+    list-style-type: none;
+    padding: 20px;
+    text-align: right;
 }
-.footer {
-	height:10px;
-	position:fixed;
-	width:100%;
-	bottom:0;
-	font-size:11px;
-	font-family: segoeui;
-	padding:7px;
-	background:url(cautionstripes_small.png) repeat;
-	color:#C00;
-
+ul {
+    margin: 1em 0;
+    text-decoration: none;
 }
-.footertext{
-	background:#FF3;
-	width:100%;
-	text-align:center;
-	position:absolute;
-	padding-bottom:0px;
+ul,
+li {
+    display: block;
+    list-style: none;
+    padding: 0;
+    margin: 0;
 }
-ul{
-	margin:1em 0;
-	text-decoration:none;
+.link {
+    margin: 0;
+    padding: 0;
 }
-ul,li{
-	display:block;
-	list-style:none;
-	padding:0;
-	margin:0;
+.link a {
+    padding: 0;
+    text-decoration: none;
+    color: #C00;
 }
-.link{
-	margin:0;
-	padding:0;
-}
-
-.link a{
-	padding:0;
-	text-decoration:none;
-	color:#C00;
-	}
-.link a:hover{
-	background:#333;
-}
-a:visited{color:#FFF;}
-a {text-decoration:none;}
-
-.errorfooter {
-	display:block;
-	text-decoration:none;
-	color:#F90;
-	padding-left:25px;
-	font-size:12px;
-}
-.error{
-	display:block;
-	padding-top:200px;
-	padding-bottom:9px;
-	padding-left:25px;
-	font-family:segoeui;
-	color:#FFFFFF;
-	font-size:36px;
-}
-
-.errorpage{
-	overflow:hidden;
-}
-
-.btn{
+.btn {
     padding: 10px;
     margin: 5px;
 }
-.btnclear{
+.btnclear {
     color: white;
     background: none;
-}
-.twitterwidget{
-	position:relative;
-	float:right;
-	width:400px;
-	text-align:right;
-	left: 0px;
-}
-
-#links {
-	text-align: right;
-	text-shadow: none !important;
 }

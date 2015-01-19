@@ -10,8 +10,4 @@
         <li class="link"><a href="index.php">thinkaliker</a> - Design/Maintainance</p></li>
     <h3>Android</h3>
         <li class="link"><a href="http://github.com/thinkaliker/slash" target="_blank">slash [WIP]</a></li>
-    <h3>Moderation</h3>
-        <li class="link"><a href="http://www.reddit.com/r/creepscomic">/r/creepscomic</a></li>
-        <li class="link"><a href="http://www.reddit.com/r/wordhero">/r/wordhero</a></li>
-        <li class="link"><a href="http://www.reddit.com/r/ailise">/r/ailise</a></li>
 </div>
