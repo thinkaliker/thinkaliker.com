@@ -118,6 +118,15 @@ a {text-decoration:none;}
 .errorpage{
 	overflow:hidden;
 }
+
+.btn{
+    padding: 10px;
+    margin: 5px;
+}
+.btnclear{
+    color: white;
+    background: none;
+}
 .twitterwidget{
 	position:relative;
 	float:right;
