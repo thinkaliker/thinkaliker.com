@@ -19,7 +19,6 @@
     <script src="bootstrap/js/angularjs-viewhead.js"></script>
     <script src="bootstrap/js/page.js"></script>
 
-
     <script type="text/javascript">
           WebFontConfig = {
             google: { families: [ 'Roboto::latin' ] }
@@ -55,10 +54,8 @@
                     </div>
                 </div>
 
-                <div id="main" ng-view>
+                <div id="main" ng-view></div>
 
-
-                </div>
                 <div class="mastfoot">
                     <div class="inner">
                         <?php include( "footer.php");?>
