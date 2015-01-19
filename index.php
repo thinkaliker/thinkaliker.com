@@ -7,7 +7,7 @@
     <meta name="wot-verification" content="16fa5970de0f373efdee" />
     <meta property="twitter:account_id" content="89368548" />
     <link href="cautionstripes_favicon.ico" rel="shortcut icon" />
-    <link href="/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css" rel="stylesheet">
     <link href="cover.css" rel="stylesheet">
     <link href="stylesheet.css" rel="stylesheet">
     <link href="//fonts.googleapis.com/css?family=Roboto" rel='stylesheet' type='text/css'>
