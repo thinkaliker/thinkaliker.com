@@ -1,4 +1,3 @@
-
 <div class="inner cover" id="links">
     <view-title>Links</view-title>
 

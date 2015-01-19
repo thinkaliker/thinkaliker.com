@@ -1,4 +1,3 @@
-
 <div class="inner cover" id="projects">
     <view-title>Projects</view-title>
     <h2 class="cover-heading">Projects<small> (Stuff I'm working on)</small></h2>

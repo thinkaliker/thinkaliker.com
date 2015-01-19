@@ -1,4 +1,3 @@
-
 <div class="inner cover" id="home">
     <h1 class="cover-heading">Hi there!</h1>
     <view-title>Home</view-title>

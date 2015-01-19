@@ -1,4 +1,3 @@
-
 <div class="inner cover" id="about">
     <view-title>About</view-title>
     <h2 class="cover-heading">About <small>(Stuff about me)</small></h2>
