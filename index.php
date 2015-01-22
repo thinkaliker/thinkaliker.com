@@ -9,7 +9,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
     <link href="/cautionstripes_favicon.ico" rel="shortcut icon" />
-    <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css" rel="stylesheet">
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css" rel="stylesheet">
     <link href="/css/cover.css" rel="stylesheet">
     <link href="/css/stylesheet.css" rel="stylesheet">
     <link href="//fonts.googleapis.com/css?family=Roboto" rel='stylesheet' type='text/css'>
