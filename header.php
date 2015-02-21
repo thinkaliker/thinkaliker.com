@@ -1,4 +1,4 @@
-<h3 class="masthead-brand"><a class="headerlink" href="/"><img src="cautionstripes_small.png" width="30" height="30" alt="Caution Stripes" /> thinkaliker</a></h3>
+<h3 class="masthead-brand"><a class="headerlink" href="/"><img src="//cdn.thinkaliker.com/cautionstripes_small.png" width="30" height="30" alt="Caution Stripes" /> thinkaliker</a></h3>
 <ul class="nav masthead-nav">
     <li ng-class="{active: $route.current.activetab == 'home'}"><a href="/">Home</a></li>
     <li><a href="/blog" target="_blank">Blog</a></li>
