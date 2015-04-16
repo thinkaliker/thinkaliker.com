@@ -15,9 +15,6 @@
     <link href="//cdn.thinkaliker.com/css/stylesheet.css" rel="stylesheet">
     <link href="//fonts.googleapis.com/css?family=Roboto" rel='stylesheet' type='text/css'>
 
-    <script data-cfasync="true" src="//ajax.googleapis.com/ajax/libs/angularjs/1.3.5/angular.min.js"></script>
-    <script data-cfasync="true" src="//ajax.googleapis.com/ajax/libs/angularjs/1.3.5/angular-route.min.js"></script>
-
     <title ng-bind="viewTitle ? 'thinkaliker | ' + viewTitle : 'thinkaliker | Home'">thinkaliker</title>
 
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -49,6 +46,10 @@
         </div>
     </div>
 </body>
+
+
+<script data-cfasync="true" src="//ajax.googleapis.com/ajax/libs/angularjs/1.3.5/angular.min.js"></script>
+<script data-cfasync="true" src="//ajax.googleapis.com/ajax/libs/angularjs/1.3.5/angular-route.min.js"></script>
 <script data-cfasync="true" src="/js/page.js"></script>
 <script data-cfasync="true" src="//cdn.thinkaliker.com/js/angularjs-viewhead.js"></script>
 <script data-cfasync="true" src="//cdn.thinkaliker.com/js/extras.js"></script>

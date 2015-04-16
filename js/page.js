@@ -54,6 +54,18 @@ app.config(function($routeProvider, $locationProvider) {
         }
     );
     $routeProvider.when(
+        '/405',
+        {
+            templateUrl: '/405.php'
+        }
+    );
+    $routeProvider.when(
+        '/406',
+        {
+            templateUrl: '/406.php'
+        }
+    );
+    $routeProvider.when(
         '/412',
         {
             templateUrl: '/412.php'
