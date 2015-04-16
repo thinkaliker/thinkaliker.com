@@ -9,11 +9,17 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
     <link href="//cdn.thinkaliker.com/cautionstripes_favicon.ico" rel="shortcut icon" />
-    <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css" rel="stylesheet">
-    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet">
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
     <link href="//cdn.thinkaliker.com/css/cover.css" rel="stylesheet">
     <link href="//cdn.thinkaliker.com/css/stylesheet.css" rel="stylesheet">
     <link href="//fonts.googleapis.com/css?family=Roboto" rel='stylesheet' type='text/css'>
+
+    <script data-cfasync="true" src="//ajax.googleapis.com/ajax/libs/angularjs/1.3.15/angular.min.js"></script>
+    <script data-cfasync="true" src="//ajax.googleapis.com/ajax/libs/angularjs/1.3.15/angular-route.min.js"></script>
+    <script data-cfasync="true" src="/js/page.js"></script>
+    <script data-cfasync="true" src="//cdn.thinkaliker.com/js/angularjs-viewhead.js"></script>
+    <script data-cfasync="true" src="//cdn.thinkaliker.com/js/extras.js"></script>
 
     <title ng-bind="viewTitle ? 'thinkaliker | ' + viewTitle : 'thinkaliker | Home'">thinkaliker</title>
 
@@ -46,12 +52,5 @@
         </div>
     </div>
 </body>
-
-
-<script data-cfasync="true" src="//ajax.googleapis.com/ajax/libs/angularjs/1.3.5/angular.min.js"></script>
-<script data-cfasync="true" src="//ajax.googleapis.com/ajax/libs/angularjs/1.3.5/angular-route.min.js"></script>
-<script data-cfasync="true" src="/js/page.js"></script>
-<script data-cfasync="true" src="//cdn.thinkaliker.com/js/angularjs-viewhead.js"></script>
-<script data-cfasync="true" src="//cdn.thinkaliker.com/js/extras.js"></script>
 
 </html>
