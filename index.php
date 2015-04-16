@@ -10,31 +10,13 @@
 
     <link href="//cdn.thinkaliker.com/cautionstripes_favicon.ico" rel="shortcut icon" />
     <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css" rel="stylesheet">
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
     <link href="//cdn.thinkaliker.com/css/cover.css" rel="stylesheet">
     <link href="//cdn.thinkaliker.com/css/stylesheet.css" rel="stylesheet">
     <link href="//fonts.googleapis.com/css?family=Roboto" rel='stylesheet' type='text/css'>
-    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.3.5/angular.min.js"></script>
-    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.3.5/angular-route.min.js"></script>
-    <script src="//cdn.thinkaliker.com/js/angularjs-viewhead.js"></script>
-    <script src="//cdn.thinkaliker.com/js/page.js"></script>
 
-    <script type="text/javascript">
-        WebFontConfig = {
-            google: {
-                families: ['Roboto::latin']
-            }
-        };
-        (function() {
-            var wf = document.createElement('script');
-            wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
-                '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
-            wf.type = 'text/javascript';
-            wf.async = 'true';
-            var s = document.getElementsByTagName('script')[0];
-            s.parentNode.insertBefore(wf, s);
-        })();
-    </script>
+    <script data-cfasync="true" src="//ajax.googleapis.com/ajax/libs/angularjs/1.3.5/angular.min.js"></script>
+    <script data-cfasync="true" src="//ajax.googleapis.com/ajax/libs/angularjs/1.3.5/angular-route.min.js"></script>
 
     <title ng-bind="viewTitle ? 'thinkaliker | ' + viewTitle : 'thinkaliker | Home'">thinkaliker</title>
 
@@ -67,21 +49,8 @@
         </div>
     </div>
 </body>
-<script>
-    (function(i, s, o, g, r, a, m) {
-        i['GoogleAnalyticsObject'] = r;
-        i[r] = i[r] || function() {
-            (i[r].q = i[r].q || []).push(arguments)
-        }, i[r].l = 1 * new Date();
-        a = s.createElement(o),
-        m = s.getElementsByTagName(o)[0];
-        a.async = 1;
-        a.src = g;
-        m.parentNode.insertBefore(a, m)
-    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
-
-    ga('create', 'UA-37558861-4', 'auto');
-    ga('send', 'pageview');
-</script>
+<script data-cfasync="true" src="/js/page.js"></script>
+<script data-cfasync="true" src="//cdn.thinkaliker.com/js/angularjs-viewhead.js"></script>
+<script data-cfasync="true" src="//cdn.thinkaliker.com/js/extras.js"></script>
 
 </html>
