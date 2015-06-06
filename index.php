@@ -15,8 +15,8 @@
     <link href="//cdn.thinkaliker.com/css/stylesheet.css" rel="stylesheet">
     <link href="//fonts.googleapis.com/css?family=Roboto" rel='stylesheet' type='text/css'>
 
-    <script data-cfasync="true" src="//ajax.googleapis.com/ajax/libs/angularjs/1.3.15/angular.min.js"></script>
-    <script data-cfasync="true" src="//ajax.googleapis.com/ajax/libs/angularjs/1.3.15/angular-route.min.js"></script>
+    <script data-cfasync="true" src="//cdnjs.cloudflare.com/ajax/libs/angular.js/1.3.16/angular.min.js"></script>
+    <script data-cfasync="true" src="//cdnjs.cloudflare.com/ajax/libs/angular.js/1.3.16/angular-route.min.js"></script>
     <script data-cfasync="true" src="/js/page.js"></script>
     <script data-cfasync="true" src="//cdn.thinkaliker.com/js/angularjs-viewhead.js"></script>
     <script data-cfasync="true" src="//cdn.thinkaliker.com/js/extras.js"></script>
@@ -37,7 +37,7 @@
             <div class="cover-container">
                 <div class="masthead clearfix">
                     <div class="inner">
-                        <?php include( "header.php");?>
+                        <?php include("header.php");?>
                     </div>
                 </div>
 
@@ -45,7 +45,7 @@
 
                 <div class="mastfoot">
                     <div class="inner">
-                        <?php include( "footer.php");?>
+                        <?php include("footer.php");?>
                     </div>
                 </div>
             </div>
