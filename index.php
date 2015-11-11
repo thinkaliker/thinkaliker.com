@@ -9,7 +9,6 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
   <link href="//cdn.thinkaliker.com/cautionstripes_favicon.ico" rel="shortcut icon" />
-  <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet">
   <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" rel="stylesheet">
 
   <script src="https://storage.googleapis.com/code.getmdl.io/1.0.6/material.min.js"></script>
@@ -47,22 +46,22 @@
           <div class="mdl-layout-spacer"></div>
 
           <nav class="mdl-navigation mdl-layout--large-screen-only">
-            <a href="/" class="mdl-navigation__link" ng-class="{active: $route.current.activetab == 'home'}">Home</a>
+            <a href="/" class="mdl-navigation__link" ng-class="{active:isActive('/')}">Home</a>
             <a href="/blog" class="mdl-navigation__link" target="_blank">Blog</a>
-            <a href="projects" class="mdl-navigation__link" ng-class="{active: $route.current.activetab == 'projects'}">Projects</a>
-            <a href="about" class="mdl-navigation__link" ng-class="{active: $route.current.activetab == 'about'}">About</a>
-            <a href="links" class="mdl-navigation__link" ng-class="{active: $route.current.activetab == 'links'}">Links</a>
+            <a href="projects" class="mdl-navigation__link" ng-class="{active:isActive('/projects')}">Projects</a>
+            <a href="about" class="mdl-navigation__link" ng-class="{active:isActive('/about')}">About</a>
+            <a href="links" class="mdl-navigation__link" ng-class="{active:isActive('/links')}">Links</a>
           </nav>
         </div>
       </header>
       <div class="mdl-layout__drawer">
         <span class="mdl-layout-title"><a class="mdl-navigation__link" href="/"><img src="//cdn.thinkaliker.com/cautionstripes_small.png" width="30" height="30" alt="Caution Stripes" /> thinkaliker</a></span>
         <nav class="mdl-navigation">
-          <a href="/" class="mdl-navigation__link" ng-class="{active: $route.current.activetab == 'home'}">Home</a>
+          <a href="/" class="mdl-navigation__link" ng-class="{active:isActive('/')}">Home</a>
           <a href="/blog" class="mdl-navigation__link" target="_blank">Blog</a>
-          <a href="projects" class="mdl-navigation__link" ng-class="{active: $route.current.activetab == 'projects'}">Projects</a>
-          <a href="about" class="mdl-navigation__link" ng-class="{active: $route.current.activetab == 'about'}">About</a>
-          <a href="links" class="mdl-navigation__link" ng-class="{active: $route.current.activetab == 'links'}">Links</a>
+          <a href="projects" class="mdl-navigation__link" ng-class="{active:isActive('/projects')}">Projects</a>
+          <a href="about" class="mdl-navigation__link" ng-class="{active:isActive('/about')}">About</a>
+          <a href="links" class="mdl-navigation__link" ng-class="{active:isActive('/links')}">Links</a>
         </nav>
       </div>
 
@@ -71,13 +70,20 @@
         <div class="mdl-grid">
           <div class="mdl-layout-spacer"></div>
           <div class="section--center mdl-shadow--4dp mdl-cell--6-col">
-            <div id="main" class="content" ng-view></div>
+            <div id="main" class="content" ng-view>
+              <div class="mdl-grid">
+                <div class="mdl-layout-spacer"></div>
+                <div id="p2" class="section--center mdl-progress mdl-js-progress mdl-progress__indeterminate"></div>
+                <div class="mdl-layout-spacer"></div>
+              </div>
+
+            </div>
           </div>
           <div class="mdl-layout-spacer"></div>
         </div>
 
         <div id="footer">
-            <button class="mdl-button mdl-js-button mdl-button--raised mdl-button--accent">&copy; thinkaliker (Adam Chao) 2015</button>
+          <button class="mdl-button mdl-js-button mdl-button--raised mdl-button--accent">&copy; thinkaliker (Adam Chao) 2015</button>
         </div>
 
       </main>
