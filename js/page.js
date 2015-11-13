@@ -1,4 +1,4 @@
-var app = angular.module('homepage', ['ng','viewhead']);
+var app = angular.module('homepage', ['ng', 'viewhead']);
 
 app.config(function($routeProvider, $locationProvider) {
   $routeProvider.when(
@@ -79,11 +79,11 @@ app.config(function($routeProvider, $locationProvider) {
 
 function mainController($scope, $location, $route) {
   var activePath = null;
-  $scope.$on('$routeChangeSuccess', function(){
+  $scope.$on('$routeChangeSuccess', function() {
     activePath = $location.path();
-    console.log( $location.path() );
+    console.log($location.path());
   });
-  $scope.isActive = function( pattern ) {
-    return (new RegExp( pattern )).test( activePath );
+  $scope.isActive = function(pattern) {
+    return (new RegExp(pattern)).test(activePath);
   };
 }

@@ -3,6 +3,7 @@
   <view-title>Home</view-title>
   <p class="lead">My name is <button itemprop="name" class="mdl-button mdl-js-button mdl-button--raised">Adam Chao</button>!
     <br />
+    <br />
     I go by <button class="mdl-button mdl-js-button mdl-button--raised mdl-button--accent">thinkaliker</button> on the internet!
     <br />
     <br />

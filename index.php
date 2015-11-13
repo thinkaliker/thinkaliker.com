@@ -84,7 +84,8 @@
         </div>
 
         <div id="footer">
-          <button class="mdl-button mdl-js-button mdl-button--raised">&copy; thinkaliker (Adam Chao) 2015</button>
+          <button class="mdl-button mdl-js-button mdl-button--fab mdl-button--raised" id="popup"><div class="icon material-icons">help</div></button>
+            <div class="mdl-tooltip" for="popup">&copy; thinkaliker (Adam Chao) 2015</div>
         </div>
 
       </main>

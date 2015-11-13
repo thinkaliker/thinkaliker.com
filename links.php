@@ -1,6 +1,5 @@
 <div class="" id="links">
   <view-title>Links</view-title>
-
   <h2 class="">Links <small>(Where to find me)</small></h2>
   <br />
   <p id="linkbuttons">
