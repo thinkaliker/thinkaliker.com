@@ -18,7 +18,7 @@
   <!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>-->
   <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.0.8/angular.min.js"></script>
   <!--<script src="//cdnjs.cloudflare.com/ajax/libs/angular.js/1.4.7/angular-route.min.js"></script>-->
-  <script src="https://raw.githubusercontent.com/apparentlymart/angularjs-viewhead/master/angularjs-viewhead.js"></script>
+  <script src="http://cdn.thinkaliker.com/js/angularjs-viewhead.js"></script>
   <script src="//cdn.thinkaliker.com/js/extras.js"></script>
   <script src="js/page.js" data-cfasync="false"></script>
   <script src="https://storage.googleapis.com/code.getmdl.io/1.0.6/material.min.js"></script>
@@ -73,8 +73,7 @@
             <div id="main" class="content" ng-view>
               <div class="mdl-grid">
                 <div class="mdl-layout-spacer"></div>
-                <!--<div id="p2" class="section--center mdl-progress mdl-js-progress mdl-progress__indeterminate"></div>-->
-                <?php include( 'home.php'); ?>
+                <div id="p2" class="section--center mdl-progress mdl-js-progress mdl-progress__indeterminate"></div>
                 <div class="mdl-layout-spacer"></div>
               </div>
 
