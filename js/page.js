@@ -1,14 +1,4 @@
-var app = angular.module('homepage', ['ngRoute', 'viewhead']);
-
-app.controller('mainController', function($scope) {
-
-});
-
-function mainController($scope, $location) {
-  $scope.isActive = function(viewLocation) {
-    return viewLocation === $location.path();
-  };
-}
+var app = angular.module('homepage', ['ng','viewhead']);
 
 app.config(function($routeProvider, $locationProvider) {
   $routeProvider.when(
@@ -19,19 +9,16 @@ app.config(function($routeProvider, $locationProvider) {
   $routeProvider.when(
     '/projects', {
       templateUrl: '/projects.php'
-      activetab: 'projects'
     }
   );
   $routeProvider.when(
     '/about', {
       templateUrl: '/about.php'
-      activetab: 'about'
     }
   );
   $routeProvider.when(
     '/links', {
       templateUrl: '/links.php'
-      activetab: 'links'
     }
   );
   $routeProvider.when(
@@ -89,3 +76,14 @@ app.config(function($routeProvider, $locationProvider) {
   });
   $locationProvider.html5Mode(true);
 });
+
+function mainController($scope, $location, $route) {
+  var activePath = null;
+  $scope.$on('$routeChangeSuccess', function(){
+    activePath = $location.path();
+    console.log( $location.path() );
+  });
+  $scope.isActive = function( pattern ) {
+    return (new RegExp( pattern )).test( activePath );
+  };
+}
