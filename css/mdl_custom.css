@@ -64,7 +64,7 @@ li {
 .mdl-layout__header {
   background-color: #293759;
 }
-main {
+body {
   background: url("http://cdn.thinkaliker.com/background.png") no-repeat center center;
   background-size: cover;
 }
