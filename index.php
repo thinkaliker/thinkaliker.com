@@ -12,14 +12,14 @@
   <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" type="text/css">
   <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" type="text/css">
   <link rel="stylesheet" href="https://storage.googleapis.com/code.getmdl.io/1.0.6/material.blue_grey-blue.min.css" type="text/css">
-  <link rel="stylesheet" href="http://cdn.thinkaliker.com/css/mdl_custom.css" type="text/css" />
+  <link rel="stylesheet" href="css/mdl_custom.css" type="text/css" />
   <link rel='stylesheet' href="//fonts.googleapis.com/css?family=Roboto" type='text/css'>
 
-  <!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>-->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
   <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.0.8/angular.min.js"></script>
   <!--<script src="//cdnjs.cloudflare.com/ajax/libs/angular.js/1.4.7/angular-route.min.js"></script>-->
   <script src="http://cdn.thinkaliker.com/js/angularjs-viewhead.js"></script>
-  <script src="//cdn.thinkaliker.com/js/extras.js"></script>
+  <script src="js/extras.js"></script>
   <script src="js/page.js" data-cfasync="false"></script>
   <script src="https://storage.googleapis.com/code.getmdl.io/1.0.6/material.min.js"></script>
 
@@ -54,7 +54,7 @@
           </nav>
         </div>
       </header>
-      <div class="mdl-layout__drawer">
+      <div class="mdl-layout__drawer" id="drawer">
         <span class="mdl-layout-title"><a class="mdl-navigation__link" href="/"><img src="//cdn.thinkaliker.com/cautionstripes_small.png" width="30" height="30" alt="Caution Stripes" /> thinkaliker</a></span>
         <nav class="mdl-navigation">
           <a href="/" class="mdl-navigation__link">Home</a>
@@ -90,6 +90,7 @@
       </main>
     </div>
   </div>
+  <div id="bg"></div>
 </body>
 
 </html>
