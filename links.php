@@ -53,13 +53,7 @@
         <a class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect" href="http://thinkaliker.deviantart.com/" target="_blank"><i class="fa fa-deviantart"></i> DeviantArt</a>
       </div>
       <div class="mdl-cell mdl-cell--4-col">
-        <a class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect" href="http://reddit.com/user/thinkaliker" target="_blank"><i class="fa fa-reddit"></i> reddit</a>
-      </div>
-      <div class="mdl-cell mdl-cell--4-col">
         <a class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect" href="http://thinkaliker.tumblr.com" target="_blank"><i class="fa fa-tumblr"></i> Tumblr</a>
-      </div>
-      <div class="mdl-cell mdl-cell--4-col">
-        <a class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect" href="http://thinkaliker.bandcamp.com" target="_blank"><i class="fa fa-headphones"></i> Bandcamp</a>
       </div>
     </div>
   </p>
