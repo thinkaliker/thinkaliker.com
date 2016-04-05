@@ -52,7 +52,7 @@
   {% endif %}
 
   {% if page.image %}
-    <meta content="/img/{{ page.image }}" property="og:image">
+    <meta content="{{ site.url }}/img/{{ page.image }}" property="og:image">
   {% else %}
     <meta content="/cautionstripes_small.png" property="og:image">
   {% endif %}
