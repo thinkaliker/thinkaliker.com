@@ -1,3 +1,5 @@
-blog/**
-pinterest*
-Thumbs.db
+_site
+.sass-cache
+.jekyll-metadata
+wp_blog
+pinterest-320a5.html

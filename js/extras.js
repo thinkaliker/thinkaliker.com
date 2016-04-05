@@ -28,15 +28,6 @@ WebFontConfig = {
 ga('create', 'UA-37558861-4', 'auto');
 ga('send', 'pageview');
 
-(function() {
-  var bgimage = new Image();
-  bgimage.src = "http://cdn.thinkaliker.com/background.jpg";
-  $("#bg").hide();
-  $(bgimage).load(function() {
-    $("#bg").css("background-image", "url(" + $(this).attr("src") + ")").css("background-repeat", "no-repeat").css("background-position", "center center").css("background-size", "cover").fadeIn(1000);
-  });
-})();
-
 $(document).ready(function() {
   var links = Array.prototype.slice.call(document.querySelectorAll('.mdl-navigation__link'));
 

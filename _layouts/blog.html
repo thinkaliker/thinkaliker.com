@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
+
+<body>
+  <div id="bg"></div>
+  <div class="site-wrapper" id="main">
+
+    <div class="mdl-layout__container mdl-js-layout mdl-layout--fixed-header">
+      {% include header.html %}
+      {{ content }}
+      {% include footer.html %}
+
+    </div>
+  </div>
+</body>
+
+</html>

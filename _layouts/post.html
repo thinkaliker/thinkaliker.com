@@ -1,0 +1,34 @@
+---
+layout: blog
+---
+<br />
+<div class="mdl-grid">
+
+  <div class="mdl-layout-spacer"></div>
+  <div class="section--center mdl-shadow--4dp mdl-cell--6-col">
+    <div class="content">
+
+      <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+        <header class="post-header">
+          {% if page.image %}
+            <img src="/img/{{ page.image }}" style="width:100%;">
+          {% endif %}
+          <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
+          <a href="/blog">&laquo; Back to blog</a>
+          <p class="post-meta">
+          <h6><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time> &mdash; <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span></h6>
+          </p>
+        </header>
+
+        <div class="post-content" itemprop="articleBody">
+          {{ content }}
+        </div>
+        <a href="/blog">&laquo; Back to blog</a>
+      </article>
+
+    </div>
+  </div>
+  <div class="mdl-layout-spacer"></div>
+</div>
+

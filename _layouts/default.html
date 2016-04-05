@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
+
+<body>
+  <div id="bg"></div>
+  <div class="site-wrapper" id="main">
+
+    <div class="mdl-layout__container mdl-js-layout mdl-layout--fixed-header">
+      {% include header.html %}
+
+      <br />
+      <div class="mdl-grid">
+        <div class="mdl-layout-spacer"></div>
+        <div class="section--center mdl-shadow--4dp mdl-cell--6-col">
+          <div id="main" class="content">
+            {{ content }}
+          </div>
+        </div>
+        <div class="mdl-layout-spacer"></div>
+      </div>
+
+
+      {% include footer.html %}
+
+    </div>
+  </div>
+</body>
+
+</html>
