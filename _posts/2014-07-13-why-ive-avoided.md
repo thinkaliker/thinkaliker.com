@@ -5,6 +5,7 @@ date:   2014-07-13 15:17:29 -0700
 categories: archive
 permalink: /blog/why-ive-avoided
 author: Adam
+description: lol anime rant
 ---
 You know, I've avoided it for a while. No, like, really avoided it. Like, I've gone out of my way to NOT see it.
 

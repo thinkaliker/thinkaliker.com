@@ -5,6 +5,7 @@ date:   2016-04-05 15:24:29 -0700
 categories: post
 permalink: /blog/website-updates-3
 author: Adam
+description: I updated my website! Yay!
 ---
 A fresh coat of paint!
 

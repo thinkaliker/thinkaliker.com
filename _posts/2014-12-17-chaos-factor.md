@@ -5,6 +5,7 @@ date:   2014-12-17 02:35:29 -0700
 categories: archive
 permalink: /blog/chaos-factor
 author: Adam
+description: this is stupid
 ---
 
 Chao's Factor - Remove the apostrophe - chaos factor.

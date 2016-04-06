@@ -6,6 +6,7 @@ categories: post
 permalink: /blog/tech-simplified-ram-hard-drives-and-cpus
 author: Adam
 image: techsimplified_cpus.png
+description: I explain how RAM, Hard Drives and CPUs work using an ice analogy!
 ---
 I often get asked by my friends to explain technology to them, and seeing as the majority of the world does not understand HOW computers work, I use analogies to help. In this installment, I'll briefly explain how RAM, Hard Drives, and CPUs work.
 

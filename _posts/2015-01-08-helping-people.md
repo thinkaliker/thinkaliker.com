@@ -5,6 +5,7 @@ date:   2015-01-17 06:48:29 -0700
 categories: post
 permalink: /blog/helping-people
 author: Adam
+description: Help people!
 ---
 I like helping people. It feels good to help people.
 

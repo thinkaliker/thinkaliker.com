@@ -5,6 +5,7 @@ date:   2013-11-14 14:30:29 -0700
 categories: archive
 permalink: /blog/college-stories-1
 author: Adam
+description: Tales of my college freshman roommate.
 ---
 
 So...where do I start. I have a very interesting roommate. It's only the first quarter of college, and he's already managed to creep out half the girls in our hall.

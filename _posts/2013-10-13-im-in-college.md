@@ -5,6 +5,7 @@ date:   2013-10-13 11:52:29 -0700
 categories: post
 permalink: /blog/im-in-college
 author: Adam
+description: wow!
 ---
 Hey! I'm in college now!
 

@@ -5,6 +5,7 @@ date:   2013-09-04 22:14:29 -0700
 categories: archive
 permalink: /blog/views-on-association
 author: Adam
+description: I'm not really going to bother reading what I wrote
 ---
 
 TAKE WHAT IS WRITTEN WITH A GRAIN OF SALT. THIS IS KNOWN AS PERSONAL OPINION, AND I'D LIKE FOR YOU TO KEEP THAT IN MIND AS YOU READ THIS.

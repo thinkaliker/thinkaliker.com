@@ -6,6 +6,7 @@ categories: post
 permalink: /blog/how-to-website
 author: Adam
 image: howtowebsite.png
+description: How to make your own website, from start to finish!
 ---
 I wanted to do a technical write up of sorts, so I thought I'd walk through the process of what I did to set up my website, from domains to servers to CloudFlare. I'll try to explain each step as I did and what some alternatives could be. Any questions? Feel free to tweet at me [@thinkaliker](http://twitter.com/thinkaliker).
 
