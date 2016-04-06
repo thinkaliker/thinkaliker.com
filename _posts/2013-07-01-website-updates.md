@@ -5,6 +5,7 @@ date:   2013-07-01 22:18:29 -0700
 categories: post
 permalink: /blog/website-updates
 author: Adam
+description: The first website update!
 ---
 So I redid my website design.
 
