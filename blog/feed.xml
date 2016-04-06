@@ -15,7 +15,7 @@ layout: null
     {% if post.categories contains 'post' %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
-        <description>{% if page.image %}<img src="/img/{{ page.image }}" style="width:100%;">{% endif %}
+        <description>{% if post.image %}<img src="{{ site.url }}/img/{{ page.image }}" style="width:100%;">{% endif %}
               {{ post.content | xml_escape }}</description>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
         <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
