@@ -5,6 +5,7 @@ date:  2016-05-28 15:00:00 -0700
 categories: post
 permalink: /blog/car-wishlist
 author: Adam
+description: I'd like a new car!
 image: carwishlist.png
 ---
 This was originally going to be a standalone post but I need to test my IFTTT recipe first. I also wrote this a while ago, but I needed something to post.
