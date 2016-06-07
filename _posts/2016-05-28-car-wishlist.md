@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Car Wishlist"
-date:  2016-05-28 15:00:00 -0700
+date:  2016-05-28 20:00:00 -0700
 categories: post
 permalink: /blog/car-wishlist
 author: Adam
@@ -32,7 +32,7 @@ This one...I'm mixed. It certainly would be nice to be able to just get in the c
 
 ## Electric Vehicle?
 
-I just spent a significant portion of my evening reading Wait But Why posts on Tesla, SpaceX and SolarCity, and I have been convinced (for quite some time now), that electric is the way to go in the future. Seeing as Tesla's Model 3 is set to be revealed in a few weeks, isn't set on being sold until 2017, and I plan on driving my current car until it's pretty much dead (which might be 5-10+ years out because Honda), I'd say that the Model 3 is probably in the (long long distance) sights for a next car. I could actually care less about any of these other features at that point. Especially at it's supposed price point, what's the disadvantage? I probably wouldn't be making super long hauls in a car anyway. But you never know.
+I spent a significant portion of my evening reading Wait But Why posts on Tesla, SpaceX and SolarCity, and I have been convinced (for quite some time now), that electric is the way to go in the future. Seeing as Tesla's Model 3 is set to be revealed in a few weeks, isn't set on being sold until 2017, and I plan on driving my current car until it's pretty much dead (which might be 5-10+ years out because Honda), I'd say that the Model 3 is probably in the (long long distance) sights for a next car. I could actually care less about any of these other features at that point. Especially at it's supposed price point, what's the disadvantage? I probably wouldn't be making super long hauls in a car anyway. But you never know.
 
 ## Gas Mileage?
 
