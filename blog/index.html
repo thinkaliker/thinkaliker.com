@@ -5,69 +5,52 @@ description: This is the place where Adam writes stuff.
 ---
 <div class="trigger">
   <br />
-  <div class="mdl-grid">
-
-    <div class="mdl-layout-spacer"></div>
-    <div class="section--center mdl-shadow--4dp mdl-cell--6-col">
-      <div id="main" class="content">
-        <h2>thinkaliker's thoughts</h2>
-        <p>random bits and dribbles of incoherence</p>
-      </div>
+  <div class="">
+    <div class="content">
+      <h2>thinkaliker's thoughts</h2>
+      <p>random bits and dribbles of incoherence</p>
     </div>
-    <div class="mdl-layout-spacer"></div>
   </div>
 
   <div>
     {% for post in site.posts %} {% if post.categories contains 'post' %}
     <br />
-    <div class="mdl-grid">
-
-      <div class="mdl-layout-spacer"></div>
-      <div class="section--center mdl-shadow--4dp mdl-cell--6-col">
-        <div id="main" class="content">
-          {% if post.image %}
-            <img src="/img/{{ post.image }}" style="width:100%;">
-          {% endif %}
-          <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
-          <h6><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">Published {{ post.date | date: "%b %-d, %Y" }}</time> &mdash;
-            <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ post.author }}</span></span>
-          </h6>
-          {{ post.excerpt }}
-          <a href="{{ post.url }}">Continue reading &raquo;</a>
-        </div>
+    <div class="">
+      <div class="content">
+        {% if post.image %}
+          <img src="/img/{{ post.image }}" style="width:100%;">
+        {% endif %}
+        <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
+        <h6><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">Published {{ post.date | date: "%b %-d, %Y" }}</time> &mdash;
+          <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ post.author }}</span></span>
+        </h6>
+        {{ post.excerpt }}
+        <a href="{{ post.url }}">Continue reading &raquo;</a>
       </div>
-      <div class="mdl-layout-spacer"></div>
     </div>
     {% endif %} {% endfor %}
   </div>
 
-
-  <div class="mdl-grid">
-
-    <div class="mdl-layout-spacer"></div>
-    <div class="section--center mdl-shadow--4dp mdl-cell--6-col">
-      <div id="main" class="content">
-        I don't have pagination working yet, sorry!
-        <!--
-        <div class="pagination">
-          {% if paginator.previous_page %}
-          <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
-          {% else %}
-          <span class="previous">Previous</span>
-          {% endif %}
-          <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
-          {% if paginator.next_page %}
-          <a href="{{ paginator.next_page_path }}" class="next">Next</a>
-          {% else %}
-          <span class="next ">Next</span>
-          {% endif %}
-        </div>
-        -->
+  <br />
+  <div class="">
+    <div class="content">
+      I don't have pagination working yet, sorry!
+      <!--
+      <div class="pagination">
+        {% if paginator.previous_page %}
+        <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+        {% else %}
+        <span class="previous">Previous</span>
+        {% endif %}
+        <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+        {% if paginator.next_page %}
+        <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+        {% else %}
+        <span class="next ">Next</span>
+        {% endif %}
       </div>
+      -->
     </div>
-    <div class="mdl-layout-spacer"></div>
   </div>
-
-
 
 </div>

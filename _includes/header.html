@@ -1,28 +1,36 @@
-<header class="mdl-layout__header">
-  <div class="mdl-layout__header-row">
-    <span class="mdl-layout-title">
-            <a class="mdl-navigation__link" href="/">
-              <img src="/cautionstripes_vector.svg" width="25" height="25" alt="Caution Stripes" /> thinkaliker</a>
-          </span>
-
-    <div class="mdl-layout-spacer"></div>
-
-    <nav class="mdl-navigation mdl-layout--large-screen-only">
-      <a href="/" class="mdl-navigation__link">Home</a>
-      <a href="/blog" class="mdl-navigation__link">Blog</a>
-      <a href="/projects" class="mdl-navigation__link">Projects</a>
-      <a href="/about" class="mdl-navigation__link">About</a>
-      <a href="/links" class="mdl-navigation__link">Links</a>
-    </nav>
+<header>
+  <div class="container">
+    <div class="row" id="menu-desktop">
+      <div class="column column-25">
+        <a class="button button-blue button-clear" href="/">
+          <img src="/cautionstripes_vector.svg" width="25" height="25" alt="Caution Stripes" /> thinkaliker
+        </a>
+      </div>
+      <div class="column column-60 column-offset-20">
+        <a href="/" class="button button-blue button-clear">Home</a>
+        <a href="/blog" class="button button-blue button-clear">Blog</a>
+        <a href="/projects" class="button button-blue button-clear">Projects</a>
+        <a href="/about" class="button button-blue button-clear">About</a>
+        <a href="/links" class="button button-blue button-clear">Links</a>
+      </div>
+    </div>
+    <div class="row" id="mobile">
+      <div class="column">
+        <a class="button button-blue button-clear" href="/">
+          <img src="/cautionstripes_vector.svg" width="25" height="25" alt="Caution Stripes" /> thinkaliker
+        </a>
+        &nbsp;
+        <span class="expand float-right">Menu <i class="fa fa-bars" aria-hidden="true"></i></span>
+      </div>
+    </div>
+    <div class="row">
+      <div class="expand-div" style="display:none;">
+        <a href="/" class="button button-blue button-clear">Home</a>
+        <a href="/blog" class="button button-blue button-clear">Blog</a>
+        <a href="/projects" class="button button-blue button-clear">Projects</a>
+        <a href="/about" class="button button-blue button-clear">About</a>
+        <a href="/links" class="button button-blue button-clear">Links</a>
+      </div>
+    </div>
   </div>
 </header>
-<div class="mdl-layout__drawer" id="drawer">
-  <span class="mdl-layout-title"><a class="mdl-navigation__link" href="/"><img src="/cautionstripes_vector.svg" width="30" height="30" alt="Caution Stripes" /> thinkaliker</a></span>
-  <nav class="mdl-navigation">
-    <a href="/" class="mdl-navigation__link">Home</a>
-    <a href="/blog" class="mdl-navigation__link">Blog</a>
-    <a href="/projects" class="mdl-navigation__link">Projects</a>
-    <a href="/about" class="mdl-navigation__link">About</a>
-    <a href="/links" class="mdl-navigation__link">Links</a>
-  </nav>
-</div>

@@ -1,15 +1,16 @@
 <!DOCTYPE html>
 <html>
 
-{% include head.html %}
+  {% include head.html %}
 
 <body>
   <div id="bg"></div>
-  <div class="site-wrapper" id="main">
+  <div class="container" id="main">
 
-    <div class="mdl-layout__container mdl-js-layout mdl-layout--fixed-header">
+    <div class="column column-70 column-offset-15">
       {% include header.html %}
       {{ content }}
+      <br />
       {% include footer.html %}
 
     </div>

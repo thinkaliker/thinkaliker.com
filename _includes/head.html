@@ -9,142 +9,68 @@
 
   <link rel="shortcut icon" href="/cautionstripes_favicon.ico">
 
-  <script defer src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
-  <script defer src="https://storage.googleapis.com/code.getmdl.io/1.2.1/material.min.js"></script>
-  <link rel="stylesheet" href="https://storage.googleapis.com/code.getmdl.io/1.2.1/material.blue_grey-blue.min.css" type="text/css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/milligram/1.2.4/milligram.min.css" type="text/css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" type="text/css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/3.2.2/anchor.min.js"></script>
 
   <style>
+    * {
+      color: #222222 !important;
+    }
     body {
       background-color: #293759;
     }
     .content {
       padding: 50px;
     }
-    a:hover {
+    a {
+      color: #AD2000 !important;
       text-decoration: none !important;
     }
-    a {
-      color: red;
+    a:hover {
+
       text-decoration: none !important;
     }
     a:active {
       text-decoration: none !important;
     }
-    .mdl-navigation__link {
-      text-decoration: none;
-    }
-    .mdl-navigation__link:hover {
-      text-decoration: none;
-      background: #555555;
+
+    .button-blue {
       color: white;
-    }
-    .mdl-navigation__link:active {
-      text-decoration: none;
-      border: none;
-      background: #222222;
-      color: white;
-    }
-    .active {
-      text-decoration: none;
-      background: #555555 !important;
-      color: white !important;
-    }
-    .linkbuttons {
-      line-height: 2.0;
-    }
-    .linkbuttons button {
-      padding: 10px;
-    }
-    #footer {
-      position: fixed;
-      display: block;
-      right: 0;
-      bottom: 0;
-      margin-right: 60px;
-      margin-bottom: 60px;
-      z-index: 900;
-    }
-    @media only screen and (min-width: 600px) {
-      .mdl-layout__drawer-button {
-        display: none;
-      }
-    }
-    @media only screen and (max-width: 600px) {
-      .mdl-layout--large-screen-only {
-        display: none;
-      }
-    }
-    .dead {
-      text-decoration: line-through;
-    }
-    .mdl-layout__header {
       background-color: #293759;
+      border-color: #293759;
     }
-    .section--center {
+    .button-blue.button-clear,
+    .button-blue.button-outline {
+      background-color: transparent;
+    }
+    .button-blue.button-clear {
+      border-color: transparent;
+    }
+    header {
+      margin-top: 20px;
+      padding-top: 20px;
       background-color: white;
     }
-    @keyframes fadein {
-      from {
-        opacity: 0;
-      }
-      to {
-        opacity: 1;
-      }
+    .content {
+      background-color: white;
     }
-    /* Firefox < 16 */
 
-    @-moz-keyframes fadein {
-      from {
-        opacity: 0;
+    @media only screen and (max-width: 65.0rem) {
+      #menu-desktop {
+        display: none;
       }
-      to {
-        opacity: 1;
-      }
-    }
-    /* Safari, Chrome and Opera > 12.1 */
-
-    @-webkit-keyframes fadein {
-      from {
-        opacity: 0;
-      }
-      to {
-        opacity: 1;
+      .expand-div {
+        display: none;
       }
     }
-    /* Internet Explorer */
-
-    @-ms-keyframes fadein {
-      from {
-        opacity: 0;
+    @media only screen and (min-width: 65.0rem) {
+      #menu-desktop {
+        /*display: inherit;*/
       }
-      to {
-        opacity: 1;
+      #mobile {
+        display: none;
       }
-    }
-    /* Opera < 12.1 */
-
-    @-o-keyframes fadein {
-      from {
-        opacity: 0;
-      }
-      to {
-        opacity: 1;
-      }
-    }
-    #bg {
-      background-repeat: no-repeat;
-      background-position: center center;
-      background-size: cover;
-      height: 100%;
-      width: 100vw;
-      z-index: -999;
-      position: fixed;
-      -webkit-animation: fadein 1.5s;  /* Safari, Chrome and Opera > 12.1 */
-      -moz-animation: fadein 1.5s;  /* Firefox < 16 */
-      -ms-animation: fadein 1.5s;  /* Internet Explorer */
-      -o-animation: fadein 1.5s;  /* Opera < 12.1 */
-      animation: fadein 1.5s;
-      background-image: url('/background.jpg');
     }
 
   </style>
