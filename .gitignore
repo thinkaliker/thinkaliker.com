@@ -1,5 +1,7 @@
 _site
 .sass-cache
 .jekyll-metadata
+.bundle
+vendor
 wp_blog
 pinterest-320a5.html
