@@ -25,4 +25,4 @@ git config user.email "adam@thinkaliker.com"
 git config user.name "Adam"
 git add --all
 git commit -a -m "Travis #$TRAVIS_BUILD_NUMBER"
-git push --force origin deploy
+git push --force origin gh-pages
