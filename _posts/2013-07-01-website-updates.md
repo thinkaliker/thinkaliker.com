@@ -6,10 +6,13 @@ categories: post
 permalink: /blog/website-updates
 author: Adam
 description: The first website update!
+excerpt_separator: <!--more-->
 ---
 So I redid my website design.
 
 Sure, it was a fun experiment to do, but it wasn't really expandable and the more I tried to add to it, the more crowded and messy looking it got.
+
+<!--more-->
 
 So I scrapped it completely and moved over to the framework provided by Twitter Bootstrap.
 

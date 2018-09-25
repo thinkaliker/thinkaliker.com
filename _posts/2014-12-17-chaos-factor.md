@@ -6,10 +6,12 @@ categories: archive
 permalink: /blog/chaos-factor
 author: Adam
 description: this is stupid
+excerpt_separator: <!--more-->
 ---
 
 Chao's Factor - Remove the apostrophe - chaos factor.
 
+<!--more-->
 
 Chao's Factor states:
 

@@ -7,8 +7,11 @@ permalink: /blog/tech-simplified-ram-hard-drives-and-cpus
 author: Adam
 image: techsimplified_cpus.png
 description: I explain how RAM, Hard Drives and CPUs work using an ice analogy!
+excerpt_separator: <!--more-->
 ---
 I often get asked by my friends to explain technology to them, and seeing as the majority of the world does not understand HOW computers work, I use analogies to help. In this installment, I'll briefly explain how RAM, Hard Drives, and CPUs work.
+
+<!--more-->
 
 We begin by imagining a lake, completely frozen. This lake is filled with ice, and represents your hard drive. Ice represents your data. A hard drive is a place where you store data for long periods of time, just like how a lake stores ice for long periods of time.
 

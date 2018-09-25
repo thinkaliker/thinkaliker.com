@@ -6,8 +6,11 @@ categories: post
 permalink: /blog/helping-people
 author: Adam
 description: Help people!
+excerpt_separator: <!--more-->
 ---
 I like helping people. It feels good to help people.
+
+<!--more-->
 
 I do believe that everyone should help people. And not in the sense that you have to go out and do 50 thousand hours of volunteer work or donate $1 million but the little things. (I mean you can donate tons of money and do lots of volunteer work too, no one's stopping you).
 

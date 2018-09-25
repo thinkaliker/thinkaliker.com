@@ -6,6 +6,7 @@ categories: post
 permalink: /blog/first-post
 author: Adam
 description: First post!
+excerpt_separator: <!--more-->
 ---
 
 Oh hey! Welcome back!
@@ -13,6 +14,8 @@ Oh hey! Welcome back!
 I mean me, I'm back!
 
 Phew, I don't even want to start.
+
+<!--more-->
 
 Basic run down, because I'm tired of writing this post every time I have to switch hosters.
 

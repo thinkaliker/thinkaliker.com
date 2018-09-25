@@ -6,8 +6,11 @@ categories: post
 permalink: /blog/a-lil-bit-of-minecraft-history
 author: Adam
 description: The history of Creeps, Ailise and AuroraServer!
+excerpt_separator: <!--more-->
 ---
 Welcome! I'm going to tell you the history behind the Minecraft multiplayer server that I play on, AuroraServer! But the story isn't quite that simple. It all started on Reddit...
+
+<!--more-->
 
 ## Creeps Era
 

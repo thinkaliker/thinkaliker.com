@@ -6,9 +6,12 @@ categories: archive
 permalink: /blog/views-on-association
 author: Adam
 description: I'm not really going to bother reading what I wrote
+excerpt_separator: <!--more-->
 ---
 
 TAKE WHAT IS WRITTEN WITH A GRAIN OF SALT. THIS IS KNOWN AS PERSONAL OPINION, AND I'D LIKE FOR YOU TO KEEP THAT IN MIND AS YOU READ THIS.
+
+<!--more-->
 
 // WRITTEN 9/4/2013 // OPINIONS SUBJECT TO CHANGE//
 

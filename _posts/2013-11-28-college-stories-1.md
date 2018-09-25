@@ -6,9 +6,12 @@ categories: archive
 permalink: /blog/college-stories-1
 author: Adam
 description: Tales of my college freshman roommate.
+excerpt_separator: <!--more-->
 ---
 
 So...where do I start. I have a very interesting roommate. It's only the first quarter of college, and he's already managed to creep out half the girls in our hall.
+
+<!--more-->
 
 First, a bit of backstory. I used to worry that coming into college, I would be the kinda guy to sit in his room on the computer all day, not making any friends and being a shut-in. And my roommate would be the kind of guy to go out and socialize, make friends, etc. However, I quickly realized that this was in fact the exact opposite, and you will soon see why. Personally, I like making friends and being able to talk to them, and although I am a computer science major, I don't want to spend all of my time on my computer.
 

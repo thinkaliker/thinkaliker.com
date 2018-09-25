@@ -7,8 +7,11 @@ permalink: /blog/car-wishlist
 author: Adam
 description: I'd like a new car!
 image: carwishlist.png
+excerpt_separator: <!--more-->
 ---
 This was originally going to be a standalone post but I need to test my IFTTT recipe first. I also wrote this a while ago, but I needed something to post.
+
+<!--more-->
 
 I haven't done a wishlist post in a while (or any post for that matter), but instead of studying for finals like a rational human being, I decided to write down a list of things I want in my future car. That being said, I've had this list in my head for a long time but have never actually wrote it down - I figured if I got it out of my head and onto a page, I'd be able to focus on other things and be able to look back onto this post later as a reference instead of being constantly reminded of it.
 

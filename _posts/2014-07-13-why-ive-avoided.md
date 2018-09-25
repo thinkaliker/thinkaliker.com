@@ -6,12 +6,15 @@ categories: archive
 permalink: /blog/why-ive-avoided
 author: Adam
 description: lol anime rant
+excerpt_separator: <!--more-->
 ---
 You know, I've avoided it for a while. No, like, really avoided it. Like, I've gone out of my way to NOT see it.
 
 "What the hell are you talking about get on with it"
 
 Yes, of course. I'm talking, of course, about Japanese Anime. Why? What did you think I was talking about? Welcome to The Rant™.
+
+<!--more-->
 
 I recently attended Anime Expo with some friends (while meeting up with some friends there) and it was a blast. I mean, a large portion of my time was spent waiting in lines or walking around in circles, but it's the experience that counts. And I mean that. But, there was a problem.
 

@@ -2,6 +2,8 @@
 layout: blog
 title: "Blog"
 description: This is the place where Adam writes stuff.
+pagination:
+  enabled: true
 ---
 <div class="trigger">
   <br />
@@ -13,7 +15,8 @@ description: This is the place where Adam writes stuff.
   </div>
 
   <div>
-    {% for post in site.posts %} {% if post.categories contains 'post' %}
+    
+    {% for post in paginator.posts %}
     <br />
     <div class="">
       <div class="content">
@@ -28,28 +31,32 @@ description: This is the place where Adam writes stuff.
         <a href="{{ post.url }}">Continue reading &raquo;</a>
       </div>
     </div>
-    {% endif %} {% endfor %}
+    
+    {% endfor %} 
   </div>
 
   <br />
   <div class="">
     <div class="content">
-      I don't have pagination working yet, sorry!
-      <!--
+
+      {% if paginator.total_pages > 1 %}
       <div class="pagination">
         {% if paginator.previous_page %}
-        <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+        <a href="{{ paginator.previous_page_path }}" class="previous">Newer</a>
         {% else %}
-        <span class="previous">Previous</span>
+        <span class="previous"></span>
         {% endif %}
-        <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+
+        <span class="page_number ">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+        
         {% if paginator.next_page %}
-        <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+        <a href="{{ paginator.next_page_path }}" class="next">Older</a>
         {% else %}
-        <span class="next ">Next</span>
+        <span class="next "></span>
         {% endif %}
       </div>
-      -->
+      {% endif %}
+
     </div>
   </div>
 

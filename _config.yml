@@ -18,7 +18,16 @@ github_username:  thinkaliker
 # Build settings
 markdown: kramdown
 
+plugins:
+  - jekyll-paginate-v2
 #other settings
-#pagination: 5
-#paginate_path: "/blog/page:num/"
-#gems: [jekyll-paginate]
+
+pagination:
+  enabled: true
+  collections: 'posts'
+  per_page: 6
+  paginate_path: '/blog/:num/'
+  category: 'post'
+  sort_field: 'date'
+  sort_reverse: true
+gems: [jekyll-paginate-v2]

@@ -6,10 +6,13 @@ categories: post
 permalink: /blog/website-updates-3
 author: Adam
 description: I updated my website! Yay!
+excerpt_separator: <!--more-->
 ---
 A fresh coat of paint!
 
 I've switched my site design several times since the last post, and this time it's even simpler!
+
+<!--more-->
 
 First off, [Material Design Lite](http://getmdl.io) tidies up the site look as a whole.
 

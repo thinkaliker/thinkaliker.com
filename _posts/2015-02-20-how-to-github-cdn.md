@@ -7,9 +7,12 @@ permalink: /blog/how-to-github-cdn
 author: Adam
 image: githubcdn.png
 description: Create your very own CDN with GitHub!
+excerpt_separator: <!--more-->
 ---
 
 I found out how easy it was to use [GitHub Pages](http://pages.github.com) to create your very own free CDN for static files.
+
+<!--more-->
 
 Assuming you followed [How to Website](http://thinkaliker.com/blog/how-to-website), you should now have a working domain name with CloudFlare enabled.
 

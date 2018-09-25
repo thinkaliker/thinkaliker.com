@@ -6,10 +6,13 @@ categories: post
 permalink: /blog/im-in-college
 author: Adam
 description: wow!
+excerpt_separator: <!--more-->
 ---
 Hey! I'm in college now!
 
 That means I'll have less time to do stuff on my own, but I'll hopefully be learning more things in the process.
+
+<!--more-->
 
 I've met some cool peeps here already, and I'm having a good time in general.
 
