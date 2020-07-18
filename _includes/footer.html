@@ -1,10 +1,10 @@
-<div id="row" class="content">
+<div id="row" class="content footer">
   <div>&copy; thinkaliker (Adam Chao) 2020 - <small>Last modified 2020-07-15.</small></div>
 </div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.2.2/anchor.min.js"></script>
 <script>
-  anchors.add().remove('h6');
+  anchors.add().remove('h6').remove('h1').remove('h3').remove('h4');
   'use strict';
 
   document.getElementsByClassName("expand")[0].addEventListener('click', toggle, false);

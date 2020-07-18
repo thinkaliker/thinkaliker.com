@@ -9,30 +9,34 @@ pagination:
   <br />
   <div class="">
     <div class="content">
-      <h2>thinkaliker's thoughts</h2>
+      <h1>thinkaliker's thoughts</h1>
       <p class="blog-tag">random bits and dribbles of incoherence</p>
     </div>
   </div>
 
   <div>
-    
+
     {% for post in paginator.posts %}
     <br />
     <div class="">
       <div class="content">
         {% if post.image %}
-          <img src="/img/{{ post.image }}" style="width:100%;">
+        <img src="/img/{{ post.image }}" style="width:100%;">
         {% endif %}
-        <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
-        <h6><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">Published {{ post.date | date: "%b %-d, %Y" }}</time> &mdash;
-          <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ post.author }}</span></span>
+        <a href="{{ post.url }}">
+          <h3>{{ post.title }}</h3>
+        </a>
+        <h6><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">Published
+            {{ post.date | date: "%b %-d, %Y" }}</time> &mdash;
+          <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span
+              itemprop="name">{{ post.author }}</span></span>
         </h6>
         {{ post.excerpt }}
         <a href="{{ post.url }}">Continue reading &raquo;</a>
       </div>
     </div>
-    
-    {% endfor %} 
+
+    {% endfor %}
   </div>
 
   <br />
@@ -48,7 +52,7 @@ pagination:
         {% endif %}
 
         <span class="page_number ">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
-        
+
         {% if paginator.next_page %}
         <a href="{{ paginator.next_page_path }}" class="next">Older</a>
         {% else %}
