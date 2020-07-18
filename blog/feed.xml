@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>thinkaliker</title>
+    <description>thinkaliker / Adam Chao
+</description>
+    <link>http://thinkaliker.com/</link>
+    <atom:link href="http://thinkaliker.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 18 Jul 2020 23:14:06 +0000</pubDate>
+    <lastBuildDate>Sat, 18 Jul 2020 23:14:06 +0000</lastBuildDate>
+    <generator>Jekyll v4.1.0</generator>
+    
+    
+      <item>
+        <title>Black Square</title>
+        <description>&lt;p&gt;Originally posted on &lt;a href=&quot;https://twitter.com/thinkaliker/status/1268012377661820928&quot;&gt;Twitter&lt;/a&gt; and Facebook.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;If you posted a black picture of a square and provided no additional information/support (and maybe even used the “wrong” hashtag), congratulations: you’ve done the equivalent of forwarding a chain email like in the late 2000’s&lt;/p&gt;
+
+&lt;p&gt;Let’s break it down:&lt;/p&gt;
+
+&lt;p&gt;Chain emails are designed to be low friction (low effort), take up your time and energy, appear harmless, and gather large lists of “gullible” people quickly and without prejudice.&lt;/p&gt;
+
+&lt;p&gt;Let’s see…check, check, check, and check.&lt;/p&gt;
+
+&lt;p&gt;Low effort: you post literally nothing, and provide nothing&lt;/p&gt;
+
+&lt;p&gt;Takes up time and energy: you have essentially DDoSed an entire hashtag to the point of unusability - check any social media site&lt;/p&gt;
+
+&lt;p&gt;List of gullible people: just trawl the hashtag, find all the black squares with no descriptions, and collect those accounts into a list.
+This is how chain emails work - anyone who forwards it on is labeled gullible and therefore more likely to be susceptible to more things like it in the future, and it’s an easy way to collect email addresses to boot.
+Same with those Facebook statuses that tell you to repost or blah blah blah will close your account or whatever. Anyone who sees or searches for these statuses can easily gather up lists of people who can be targeted in the future.&lt;/p&gt;
+
+&lt;p&gt;Appears harmless: yes, of course the cause you’re supporting is good! That’s good! But consider how your post affects other people. Consider that maybe sending that email to 10 other people maybe doesn’t actually get Bill Gates to send you $1M. Consider that maybe the default expected behavior for people is “not racist”. When paired with inaction, it does nothing of value.&lt;/p&gt;
+
+&lt;p&gt;Now, this comes with a few additional kickers in this certain instance:&lt;/p&gt;
+
+&lt;p&gt;Instant gratification: sure, you’re showing support, but provide nothing of substance.&lt;/p&gt;
+
+&lt;p&gt;Lack of access to information: Again, check the hashtag - literal millions of posts filled with NOTHING.&lt;/p&gt;
+
+&lt;p&gt;If this wasn’t a misinformation campaign on purpose, you can bet money that bad actors are taking notes on how to drown out actual useful information, by reducing the signal-to-noise ratio to all noise with something that’s easily spread and preys on apathy. I would not be surprised if it WAS a misinformation campaign, designed to drown out useful information.&lt;/p&gt;
+
+&lt;p&gt;Be smart when sharing things, and don’t just do things because it’s easy and they make you feel good, do things because it may actually help.&lt;/p&gt;
+
+&lt;p&gt;Resources: &lt;a href=&quot;https://blacklivesmatters.carrd.co&quot;&gt;blacklivesmatters.carrd.co&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 18 Jul 2020 22:48:00 +0000</pubDate>
+        <link>http://thinkaliker.com/blog/black-square</link>
+        <guid isPermaLink="true">http://thinkaliker.com/blog/black-square</guid>
+        
+        
+        <category>post</category>
+        
+      </item>
+    
+    
+    
+      <item>
+        <title>Website Updates (and more!)</title>
+        <description>&lt;p&gt;Phew, my last blog post was from 2 years ago? Let’s fix that.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Some news: I’m working on an online markdown editor. Hopefully this allows for more frequent writing. I’ve always wanted to sit at a coffee shop or something and just write away. Blog posts, short stories, who knows! I have this Chromebook and I’d like to use it more. It just sits in the corner and collects dust unless I want to be away from my desktop. And hey, might as well make mnml useful for me (rather than just using Word or Google Docs), and allow me to either publish/post/draft up posts for this blog. I just have to figure out how to handle backend/posting and we’ll be good to go.&lt;/p&gt;
+
+&lt;p&gt;In other news, I just learned how to automate website building with TravisCI, Jekyll, and Github Pages. Might have to look more into this capability in the future.&lt;/p&gt;
+
+&lt;p&gt;I’ve got 5 or so posts in the pipeline (which I accidentally deleted but luckily was able to retrieve with Recuva). They are in varying states of polish and completion. And misinformation. Especially the security one. Especially after I received Security+ certification.&lt;/p&gt;
+
+&lt;p&gt;Now that I think about it, I’ve not been able to automate posting about new blog posts. I think Webhooks+IFTTT needs a second looking into.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 25 Sep 2018 06:00:00 +0000</pubDate>
+        <link>http://thinkaliker.com/blog/website-updates-4</link>
+        <guid isPermaLink="true">http://thinkaliker.com/blog/website-updates-4</guid>
+        
+        
+        <category>post</category>
+        
+      </item>
+    
+    
+    
+      <item>
+        <title>Car Wishlist</title>
+        <description>&lt;img src="http://thinkaliker.com/img/carwishlist.png" style="width:100%;" /&gt;&lt;/src&gt;&lt;p&gt;This was originally going to be a standalone post but I need to test my IFTTT recipe first. I also wrote this a while ago, but I needed something to post.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;I haven’t done a wishlist post in a while (or any post for that matter), but instead of studying for finals like a rational human being, I decided to write down a list of things I want in my future car. That being said, I’ve had this list in my head for a long time but have never actually wrote it down - I figured if I got it out of my head and onto a page, I’d be able to focus on other things and be able to look back onto this post later as a reference instead of being constantly reminded of it.&lt;/p&gt;
+
+&lt;p&gt;Things with a ? indicate things that would be nice to have but either isn’t currently developed enough or is lacking in one way or another. So here we go.&lt;/p&gt;
+
+&lt;h2 id=&quot;phone-connectivity&quot;&gt;Phone Connectivity&lt;/h2&gt;
+
+&lt;p&gt;I know there are head units out there that support, say Android Auto or Apple CarPlay, but none of those two things do exactly what I want to do. I want to be able to connect my phone to my car, have music from my phone play in the car, select songs and get feedback from apps running on my phone (eg. Waze or Google Maps). So with today’s market it seems like Bluetooth connectivity with steering wheel controls is the way to go.&lt;/p&gt;
+
+&lt;h2 id=&quot;ledthings&quot;&gt;LED…things&lt;/h2&gt;
+
+&lt;p&gt;I really like LEDs. I think they look nice and are usually very clean. They usually last longer than bulbs and can sometimes be brighter than regular bulbs. So why haven’t we seen it on everything? LED technology has definitely improved over the last few decades and is probably going to be cheaper to manufacture at some point. Just throw it in everything and I’ll be a happy camper. Brakelights, turn signals, interior lights, whatever.&lt;/p&gt;
+
+&lt;h2 id=&quot;projector-headlights&quot;&gt;Projector Headlights&lt;/h2&gt;
+
+&lt;p&gt;Speaking of lighting, why not use projector type headlights for everything? I’m actually considering retrofitting my current headlights as a fun summer project, but I don’t really see the disadvantage, especially when done correctly. Better night visibility, cleaner light output. But, this is a wishlist.&lt;/p&gt;
+
+&lt;h2 id=&quot;self-driving&quot;&gt;Self-Driving?&lt;/h2&gt;
+
+&lt;p&gt;This one…I’m mixed. It certainly would be nice to be able to just get in the car and then get out at your location, but I like driving. Not like racetrack driving, but casual driving. The automotive equivalent of someone who plays Bejeweled and calls themselves a “gamer”. I’m assuming at this point that safety autopilot type features are already standard on most vehicles.&lt;/p&gt;
+
+&lt;h2 id=&quot;electric-vehicle&quot;&gt;Electric Vehicle?&lt;/h2&gt;
+
+&lt;p&gt;I spent a significant portion of my evening reading Wait But Why posts on Tesla, SpaceX and SolarCity, and I have been convinced (for quite some time now), that electric is the way to go in the future. Seeing as Tesla’s Model 3 is set to be revealed in a few weeks, isn’t set on being sold until 2017, and I plan on driving my current car until it’s pretty much dead (which might be 5-10+ years out because Honda), I’d say that the Model 3 is probably in the (long long distance) sights for a next car. I could actually care less about any of these other features at that point. Especially at it’s supposed price point, what’s the disadvantage? I probably wouldn’t be making super long hauls in a car anyway. But you never know.&lt;/p&gt;
+
+&lt;h2 id=&quot;gas-mileage&quot;&gt;Gas Mileage?&lt;/h2&gt;
+
+&lt;p&gt;Kind of a moot point if it’s electric. Say it isn’t. My current car does 24/31 and it’s from 2003. I’d say that’s actually pretty good, when compared to some cars today, 13 years later. Not a Prius though.&lt;/p&gt;
+
+&lt;h2 id=&quot;rwd-awd&quot;&gt;RWD? AWD?&lt;/h2&gt;
+
+&lt;p&gt;Speaking of Tesla, what about drivetrains? I’ve only driven FWD cars my whole life and have never experienced RWD or AWD. It’d be nice to experience but the only reason that it has a ? is because of MPGs. Usually RWD (AWD especially) suffer from lower MPGs due to inefficiencies in bringing the power from the front to the back. And unless my next car is going to have the engine in the trunk, this isn’t going to work as I like to save money on gas. This gets thrown out the window when you bring in EVs, since there’s practically no difference in front or rear drive, just in torque at that point (and battery size).&lt;/p&gt;
+
+&lt;h2 id=&quot;remote-windows&quot;&gt;Remote Windows&lt;/h2&gt;
+
+&lt;p&gt;This is the biggest thing I want. It’s indescribably important, and I’m 90% sure that none of the cars of the market today have this feature. My car from 2003 does and it’s the best thing in warm weather which is fairly common as I live in Southern California. The ability to lower your windows to let hot air out before getting in and NOT wasting gas by turning the engine+A/C on is so nice, and I’m concerned that my next car won’t be able to do so. Heck, even my mom’s car from 2012 can’t do it (yet my dad’s car from 2012 can).&lt;/p&gt;
+
+&lt;p&gt;Y’know what? Just give me a Tesla Model 3 and we’ll call it a day.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 29 May 2016 03:00:00 +0000</pubDate>
+        <link>http://thinkaliker.com/blog/car-wishlist</link>
+        <guid isPermaLink="true">http://thinkaliker.com/blog/car-wishlist</guid>
+        
+        
+        <category>post</category>
+        
+      </item>
+    
+    
+    
+      <item>
+        <title>Website Updates</title>
+        <description>&lt;p&gt;A fresh coat of paint!&lt;/p&gt;
+
+&lt;p&gt;I’ve switched my site design several times since the last post, and this time it’s even simpler!&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;First off, &lt;a href=&quot;http://getmdl.io&quot;&gt;Material Design Lite&lt;/a&gt; tidies up the site look as a whole.&lt;/p&gt;
+
+&lt;p&gt;Secondly, I’ve switched the entire site’s functionality over to &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt;, that way I can use Github Pages to host it, rather than rolling my own server. I have been using my own (or, rather, Nathan’s server), for a while, but I wanted super speed and super caching (especially with the inclusion of images). This required some stretching and pulling of my existing template, along with learning how Jekyll works, but in the end I have a flat-file based blog+website system that seems pretty solid.&lt;/p&gt;
+
+&lt;p&gt;Thirdly, I’ve archived past posts that I don’t exactly feel comfortable with publically. If you had the URLs you are still able to access them as I am still in the middle of moving posts over but you will not see them in the posts below.&lt;/p&gt;
+
+&lt;p&gt;Also, I’m probably going to continue tweaking my site until I like it and I continue adding features and such. (pagination might be on the list, along with some other things that I haven’t thought of yet.)&lt;/p&gt;
+
+&lt;p&gt;Lastly, I’ll probably be encouraged to blog more just because I want to use this shiny new thing.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 05 Apr 2016 22:24:29 +0000</pubDate>
+        <link>http://thinkaliker.com/blog/website-updates-3</link>
+        <guid isPermaLink="true">http://thinkaliker.com/blog/website-updates-3</guid>
+        
+        
+        <category>post</category>
+        
+      </item>
+    
+    
+    
+      <item>
+        <title>How to First Apartment Essentials</title>
+        <description>&lt;img src="http://thinkaliker.com/img/apartmentessentials.png" style="width:100%;" /&gt;&lt;/src&gt;&lt;p&gt;So this was the first year I lived in an apartment by myself and I wanted to create a list of essentials that I found particularly helpful to have the first time living in an apartment. Sorted by living spaces.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;kitchen&quot;&gt;Kitchen&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Medium pot&lt;/strong&gt; - Very versatile, can be used to heat soup, cook sauce, boil water for pasta, and so on.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Medium frying pan&lt;/strong&gt; - Again, very versatile, can be used in more than one way (be creative!).&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Water filter&lt;/strong&gt; - Don’t buy a 24pack of water bottles, it’s bad for the planet. Instead, invest in a water filter (eg. Brita) and some sort of canteen/stainless steel/Nalgene equivalent and ta-da! Free* water! (*unless you have to pay for utilities)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;3x each, minimum [Plate, Bowl, Fork, Spoon, Knife, Chopsticks]&lt;/strong&gt; - Here’s the logic - one for now, one just in case, and one when you’re too lazy to do the dishes. By the time you reach the third one, you should be able to (forced, really) to wash the dishes.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Tupperware containers&lt;/strong&gt; - Really, any reusable plastic and/or glass container. Great for keeping leftovers. (and if you go home you can always snag some food and eat it later)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Toaster oven&lt;/strong&gt; - Pretty useful, you can heat anything frozen (it will take longer but will be cooked more consistently), bake small items and probably better than a microwave.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Microwave&lt;/strong&gt; - Yeah, I know I just said “better than a microwave” but it is handy to have options. I tend not to use it too often though. But it is convenient when you’re heating, say, leftovers. I wouldn’t heat it in the toaster oven.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Cooking utensils&lt;/strong&gt; - I mean, all you really need is a spatula. Maybe one of those draining spoons. A cutting knife.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Cutting board&lt;/strong&gt; - (Suggested by Michael) Some places do not have a cutting board. Mine does but I would certainly not use it. Bring your own.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Rice cooker&lt;/strong&gt; - Ok, so there’s a version of a rice cooker which has one button, “Cook” and is basically a giant metal bowl with the rice bowl inside of it. This is the one you want, not the one with the buttons and the clock and the whatever. You can use this to steam stuff along with cooking rice. Don’t forget the rice paddle.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Aluminum foil&lt;/strong&gt; - (Suggested by Lily) Useful for storing food as well. Also you do need something for lining that toaster oven.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Paper towels&lt;/strong&gt; - (Suggested by Lily) Get the huge pack from Costco and never run out of paper towels.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;bathroom&quot;&gt;Bathroom&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Shower caddy&lt;/strong&gt; - Don’t need to buy some fancy shelf for your shower/bath when you can just hang it!&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Toilet brush/Plunger&lt;/strong&gt; - I don’t need to explain this one, do I?&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Floor/bath mats&lt;/strong&gt; - It’s nice.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Shower slippers&lt;/strong&gt; - Coming from a dorm you should already have them. I share a shower so I already have them, but I would recommend one anyway.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Toilet paper&lt;/strong&gt; - (Suggested by Desiree) The huge pack from Costco. Never run out of toilet paper, ever. At least, probably for a year.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;bedroom&quot;&gt;Bedroom&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;A good mattress&lt;/strong&gt; - You’re going to be sleeping in it, so make sure it’s comfortable. I got this nifty memory foam mattress from IKEA, and it came vacuum sealed and rolled up, so it was nice and compact which helps since I live on the 3/4th floor. Open the bag, let it air out and BAM! Mattress!
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;Optional: Bed frame&lt;/strong&gt; - I don’t personally have one but it would be nice to have one for some people. I don’t mind so my mattress just sits on the floor.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;A good desk&lt;/strong&gt; - You’re going to be doing work here a lot so make sure it’s a good one. I brought my desk from home. Some IKEA desk from about 10 years ago. (It was something I could carry up 3 flights of stairs easily.)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;A good chair&lt;/strong&gt; - You’re going to be sitting in it at said desk. Make sure it’s comfortable.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Hanging closet organizer&lt;/strong&gt; - The one I have is made of a soft material and you can buy the box/shelf thing for each compartment, but I didn’t and just use it as it. Useful if you don’t have a storage solution already.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;A good pillow&lt;/strong&gt; - (Suggested by Isaiah) Again, you’re going to be sleeping on it. Make it a good one!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;living-room&quot;&gt;Living Room&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;I don’t have much of a living room, so I don’t find it very “essential” to have living room items. That being said, a small folding table and some folding chairs do the trick for me. I can eat there, friends can hang out, or it takes up space. Whatever works.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Lamps&lt;/strong&gt; - I mean it helps.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;misc&quot;&gt;Misc.&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Trash cans&lt;/strong&gt; - Get more than one and put them in many places (bedroom, kitchen, bathroom, etc.). Grocery store bags make excellent trash bags.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Command™ Strips/Hooks&lt;/strong&gt; - You’ll need this more than you’ll think you need them.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Baking soda&lt;/strong&gt; - Gets rid of odors, cleans, what more do you need? Handy to have around. Get the big bag from Costco.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;A good vacuum&lt;/strong&gt; - (Suggested by Lily) It gets dustier than you think.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Remember, this is an “essentials” list, which means the bare minimum yet useful items. If you have any additions, feel free to contact me and I’ll add it to the list!&lt;/p&gt;
+</description>
+        <pubDate>Wed, 13 May 2015 02:48:29 +0000</pubDate>
+        <link>http://thinkaliker.com/blog/how-to-first-apartment-essentials</link>
+        <guid isPermaLink="true">http://thinkaliker.com/blog/how-to-first-apartment-essentials</guid>
+        
+        
+        <category>post</category>
+        
+      </item>
+    
+    
+    
+      <item>
+        <title>Tech Simplified: RAM, Hard Drives, and CPUs</title>
+        <description>&lt;img src="http://thinkaliker.com/img/techsimplified_cpus.png" style="width:100%;" /&gt;&lt;/src&gt;&lt;p&gt;I often get asked by my friends to explain technology to them, and seeing as the majority of the world does not understand HOW computers work, I use analogies to help. In this installment, I’ll briefly explain how RAM, Hard Drives, and CPUs work.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;We begin by imagining a lake, completely frozen. This lake is filled with ice, and represents your hard drive. Ice represents your data. A hard drive is a place where you store data for long periods of time, just like how a lake stores ice for long periods of time.&lt;/p&gt;
+
+&lt;p&gt;One of the few basic operations of a CPU, or a Central Processing Unit, is adding two numbers together. Processor speed (2.4GHz, for example) is actually the number of times a second that the CPU decides to do any sort of calculation. For this analogy, we’re going to take a chunk of ice and melt it and that is a single computation. In this case, CPU speed is like being able to melt ice faster.&lt;/p&gt;
+
+&lt;p&gt;If you’re wondering why CPU speed matters when you buy a new phone or computer, it’s because it’s able to perform calculations faster, or in our case, melt the ice faster. If you bought a hairdryer it would melt the ice at a certain rate. If you bought a flamethrower, it would definitely melt the ice at a faster rate, but costs more. This is why people look at CPU speeds.&lt;/p&gt;
+
+&lt;p&gt;Now, melting an entire lake is terribly inefficient and slow. You definitely don’t want to do that all the time, ESPECIALLY if you only need to melt some of the ice, and not all of it. So what do you do?&lt;/p&gt;
+
+&lt;p&gt;We take SOME of the ice and put it in a container. Now, we can melt a smaller amount of ice faster, as well as only melting the ice that we need. This container represents our Random Access Memory, or RAM for short.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 10 Mar 2015 02:18:29 +0000</pubDate>
+        <link>http://thinkaliker.com/blog/tech-simplified-ram-hard-drives-and-cpus</link>
+        <guid isPermaLink="true">http://thinkaliker.com/blog/tech-simplified-ram-hard-drives-and-cpus</guid>
+        
+        
+        <category>post</category>
+        
+      </item>
+    
+    
+    
+      <item>
+        <title>How to GitHub CDN</title>
+        <description>&lt;img src="http://thinkaliker.com/img/githubcdn.png" style="width:100%;" /&gt;&lt;/src&gt;&lt;p&gt;I found out how easy it was to use &lt;a href=&quot;http://pages.github.com&quot;&gt;GitHub Pages&lt;/a&gt; to create your very own free CDN for static files.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Assuming you followed &lt;a href=&quot;http://thinkaliker.com/blog/how-to-website&quot;&gt;How to Website&lt;/a&gt;, you should now have a working domain name with CloudFlare enabled.&lt;/p&gt;
+
+&lt;p&gt;So if you have lots of STATIC content like CSS or SOME JavaScript files, you can host them on a global CDN for free, courtesy of GitHub Pages.&lt;/p&gt;
+
+&lt;p&gt;YMMV: I found that putting my application JS for AngularJS on CDN actually made my browser crash. So only static files that can be loaded independent of the page should be put on the CDN. I would also not recommend using this for images because there are better services to use (imgur, minus, etc.).&lt;/p&gt;
+
+&lt;p&gt;GitHub Pages provies a free hosting solution at http://yourusername.github.io - you can upload an index.html page to your repository and it will show up. Fine, easy.&lt;/p&gt;
+
+&lt;p&gt;But you can also upload JS and CSS files….which you can then link to from your website! And if your server is slow, a CDN will take the load off of your server.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Make sure your GitHub Pages is set up correctly.
+    &lt;ol&gt;
+      &lt;li&gt;Create a new repository called &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;yourusername.github.io&lt;/code&gt; (yes, with the .github.io) and clone.&lt;/li&gt;
+      &lt;li&gt;Add any files you want to have delivered from the CDN to the repo and push.&lt;/li&gt;
+      &lt;li&gt;Create a new file named “CNAME” in the root of your repo and add the direct URL of your CDN. We will redirect it in the next step. (For example, I use “cdn.thinkaliker.com”). At this point your GitHub,io URL will redirect to your nonexistent subdomain.&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Redirect CloudFlare to point your CDN location to GitHub Pages.
+    &lt;ol&gt;
+      &lt;li&gt;Create a new CNAME entry.&lt;/li&gt;
+      &lt;li&gt;Use “cdn” or whatever you want (must be same as in CNAME file above).&lt;/li&gt;
+      &lt;li&gt;Add your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;yourusername.github.io&lt;/code&gt; to the value fields as an alias.&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;And that’s it! After this, every time you need to update or add any files, simply push to GitHub, and it will work immediately!&lt;/p&gt;
+</description>
+        <pubDate>Sat, 21 Feb 2015 04:55:29 +0000</pubDate>
+        <link>http://thinkaliker.com/blog/how-to-github-cdn</link>
+        <guid isPermaLink="true">http://thinkaliker.com/blog/how-to-github-cdn</guid>
+        
+        
+        <category>post</category>
+        
+      </item>
+    
+    
+    
+      <item>
+        <title>How to Website</title>
+        <description>&lt;img src="http://thinkaliker.com/img/howtowebsite.png" style="width:100%;" /&gt;&lt;/src&gt;&lt;p&gt;I wanted to do a technical write up of sorts, so I thought I’d walk through the process of what I did to set up my website, from domains to servers to CloudFlare. I’ll try to explain each step as I did and what some alternatives could be. Any questions? Feel free to tweet at me &lt;a href=&quot;http://twitter.com/thinkaliker&quot;&gt;@thinkaliker&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;YMMV.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Get Domain
+    &lt;ol&gt;
+      &lt;li&gt;Free TLD&lt;/li&gt;
+      &lt;li&gt;Paid TLD&lt;/li&gt;
+      &lt;li&gt;SLD&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Get Server
+    &lt;ol&gt;
+      &lt;li&gt;Free Server
+        &lt;ul&gt;
+          &lt;li&gt;Shared Hosting&lt;/li&gt;
+          &lt;li&gt;GitHub Pages&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Paid Shared Server&lt;/li&gt;
+      &lt;li&gt;VPS&lt;/li&gt;
+      &lt;li&gt;Dedicated&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Get CloudFlare&lt;/li&gt;
+  &lt;li&gt;Get WordPress&lt;/li&gt;
+  &lt;li&gt;Other Content&lt;/li&gt;
+  &lt;li&gt;????&lt;/li&gt;
+  &lt;li&gt;Profit&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;1-get-domain&quot;&gt;1. Get Domain&lt;/h2&gt;
+
+&lt;p&gt;The most important part of your website is your domain name. It’s what uniquely identifies you on the internet as a destination to visit. Well, that’s partially true, that’s what an IP address is for (that’s also partially true). So, we need to pick a good domain name!&lt;/p&gt;
+
+&lt;h3 id=&quot;a-free-tld&quot;&gt;a. Free TLD&lt;/h3&gt;
+
+&lt;p&gt;First, I went with a free domain. I figured, I can start a website without paying for anything. This was the initial goal. &lt;a href=&quot;http://dot.tk&quot;&gt;DotTK&lt;/a&gt; is where I got a free top-level domain to use all over the internet. Be warned, .TK addresses are notorious for being used for spam and malware because they are easily obtainable and free for use with anything.&lt;/p&gt;
+
+&lt;p&gt;The domain name control panel is where you will provide information such as IP addresses, name servers or redirections. Because I will be using CloudFlare I have skipped this step and selected name servers. This will be important in the CloudFlare section.&lt;/p&gt;
+
+&lt;h3 id=&quot;b-paid-tld&quot;&gt;b. Paid TLD&lt;/h3&gt;
+
+&lt;p&gt;I finally decided that buying a domain from &lt;a href=&quot;http://domains.google.com/registrar&quot;&gt;Google Domains&lt;/a&gt; would be worth it. Keep in mind that buying a domain does not equal buying a server to host your website. It just gives you an address that your house will be built at - you still need to build a house and put stuff in it. Similar situation, provide IP addresses or use custom name servers - CloudFlare will come into play, and will be managing our DNS records. I did take the opportunity to redirect adam@thinkaliker to my regular email, and it works great.&lt;/p&gt;
+
+&lt;h3 id=&quot;c-sld&quot;&gt;c. SLD&lt;/h3&gt;
+
+&lt;p&gt;Firstly, I would recommend anyone who would like to create a website to shy away from second-level domains. They are usually free, from what I’ve seen but do not create the same sense of professionalism or SEO-ness (if you want to be snobby about it) as any top-level domain. A majority of the time they lack in features, such as DNS manipulation or anything at all, really. If you’re in a country where this is the norm (.co.uk for example), obviously this is the societal norm and you’ll be fine. No one bats a second eyelash at those SLDs but at least now you know what they are!&lt;/p&gt;
+
+&lt;h2 id=&quot;2-get-server&quot;&gt;2. Get server&lt;/h2&gt;
+
+&lt;p&gt;Now that we have a street address, we need a house. So we need a place to put our actual content, our website. We have several options here, ranging from free to not free.&lt;/p&gt;
+&lt;h3 id=&quot;a-free-server&quot;&gt;a. Free Server&lt;/h3&gt;
+
+&lt;p&gt;Well I’m cheap. So I thought, hey, what’s a free solution? After lots of googling and reading reviews I ended up with some hosting company called ServersFree. Yeah, I know, their website looks really sketchy but I don’t have a better option. Maybe Hostinger but they’re UK based. Which honestly might be better than “I don’t know where you are” based. There is also a GitHub option, which may work out better for you. Or a VPS, which is what I will eventually get.&lt;/p&gt;
+
+&lt;h4 id=&quot;i-shared-hosting&quot;&gt;i. Shared Hosting&lt;/h4&gt;
+
+&lt;p&gt;A free shared hosting solution would be a hoster like ServersFree. The way this works is that the hosting company has, say, 50 servers and 50 unique IPs, one per server. Each server runs virtualization software such as cPanel which allows the server to host hundreds of websites per server. The way this is accomplished is the server software will allocate a certain amount of bandwidth and hard drive space to each website. When you point your computer at that server’s IP, it will do two things: fail miserably and attempt to look for a website. The unique identifier for the website is the domain name - and this is what the server uses to figure out which webpage to serve to you. Accessing the IP directly won’t help because it won’t have any clue where you want to go. However the IP given IS A UNIQUE IDENTIFIER, just not in the way that the shared server may understand it.&lt;/p&gt;
+
+&lt;h4 id=&quot;ii-github-pages&quot;&gt;ii. GitHub Pages&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://pages.github.com&quot;&gt;GitHub pages&lt;/a&gt; is another solution which may work out. I’m actually going to do a separate writeup on GitHub pages so be on the lookout for that in the near future. If you use GitHub pages you can basically skip the rest of this write-up. I cover it in &lt;a href=&quot;http://thinkaliker.com/blog/how-to-github-cdn&quot;&gt;GitHub CDN&lt;/a&gt;. (2016 edit, I’m now using Github Pages! There are also other alternatives like GitLab, Heroku, and OpenShift that I won’t cover.)&lt;/p&gt;
+
+&lt;h3 id=&quot;b-paid-shared-server&quot;&gt;b. Paid Shared Server&lt;/h3&gt;
+
+&lt;p&gt;Mostly the same as the shared section above, except these are paid for. A caveat is that these servers are generally very limited - some come with &lt;em&gt;shudder&lt;/em&gt; SquirrelMail, some come with MySQL databases, some don’t come with anything but a hard drive and some bandwidth. Obviously paying more will get you more stuff in terms of features, but you are SHARING the physical hard drive and server with many other customers.&lt;/p&gt;
+
+&lt;h3 id=&quot;c-vps&quot;&gt;c. VPS&lt;/h3&gt;
+
+&lt;p&gt;A VPS is a very interesting combination of a shared server and a computer. It is quite literally a virtual computer hooked to the real life internet. It can do anything you want, like a computer, and can serve up anything you want - a server if you will. These are virtualized because like a shared server, they are usually virtual machines running on a bigger server in a data center somewhere. These are usually way more expensive than a shared server because of the costs needed to run one (usually a beefier server is needed). If you like to run programs that connect to the internet all the time, this is a good choice because that’s literally it’s entire job.&lt;/p&gt;
+
+&lt;h3 id=&quot;d-dedicated&quot;&gt;d. Dedicated&lt;/h3&gt;
+
+&lt;p&gt;OK, now you’re just showing off. These are usually fairly expensive and is exactly as it says. It’s your very own server in a data center somewhere with it’s own IP and everything. If you can get one, good for you, you’re probably doing a lot cooler things than I am.&lt;/p&gt;
+
+&lt;h2 id=&quot;3-get-cloudflare&quot;&gt;3. Get CloudFlare&lt;/h2&gt;
+
+&lt;p&gt;So, what’s all the buzz about DNS and name servers and IP addresses? This is where CloudFlare will tie everything together. What is CloudFlare? People use it for many things, it can speed up loading time of your website by caching stuff, it can provide a small layer of protection from attackers, and it can handle your DNS records. I’m going to be using it for a bit for all three.&lt;/p&gt;
+
+&lt;p&gt;No matter what step you took for the last two bullet points, these step will always be the same.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Sign up for CloudFlare - accounts are free&lt;/li&gt;
+  &lt;li&gt;Add a new site - put in your shiny new domain name here. NOTE: if you are using Google Domains be sure to transfer your old DNS records because it has mail forwarding information that you need to ensure that email forwarding works from Google Domain’s control panel.&lt;/li&gt;
+  &lt;li&gt;Take note of the Name Servers that CloudFlare provides to you. They are unique to your specific website and may be different for different websites you add onto your CloudFlare account.&lt;/li&gt;
+  &lt;li&gt;Go back to your domain control panel (dotTK, Google Domains, etc) and put in your CloudFlare name server info there.&lt;/li&gt;
+  &lt;li&gt;Edit your DNS records on CloudFlare.
+    &lt;ol&gt;
+      &lt;li&gt;Go to your server hosting control panel and look for something that looks like “Server IP” or something similar. THIS IP IS A UNIQUE IDENTIFIER. The actual IP of the physical server may be different, and we will need it for WordPress. It is very important that you understand the differences and know which to use.&lt;/li&gt;
+      &lt;li&gt;On CloudFlare, add a new DNS entry. Make it an “A” entry and type in your domain name. Enter that server IP into the value slot.&lt;/li&gt;
+      &lt;li&gt;Typically you account for “thinkaliker.com” and “www”, these are common DNS entries.&lt;/li&gt;
+      &lt;li&gt;For any additional servers you may want under this domain name, just type the subdomain you want into the name slot and the IP of the server into the value slot.&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Click “I’m done” - it make take a few hours or even a day for the changes to propagate throughout the internet. Feel free to flush your DNS cache to see if the changes have gone through. But without actual content this isn’t really useful.&lt;/li&gt;
+  &lt;li&gt;There’s other settings you can play around with in CloudFlare but the default settings are OK for now.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;4-get-wordpress-optional&quot;&gt;4. Get WordPress (optional)&lt;/h2&gt;
+
+&lt;p&gt;So now you have all your website stuff pointing in all the right directions. Perfect. Let’s add a blog! These instructions are going to be very specific, so if you used something different try to substitute what you have with what I have written.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;FTP access - my hoster uses FTP to get files from my computer onto the server. Grab your favorite FTP client (MobaXterm, FileZilla, WinSCP, etc) and connect to the IP address of the server.
+    &lt;ol&gt;
+      &lt;li&gt;On ServersFree it is the “IP Address”. This is the IP of the physical server. Not your unique identifier.&lt;/li&gt;
+      &lt;li&gt;Pro tip: set up a DNS alias (“A” record) to take care of this for you! Add one with the name “server” or “ftp” or something and add the IP address indicated. Now you can connect to ftp.thinkaliker.com and bam!&lt;/li&gt;
+      &lt;li&gt;Depending on your hoster and your FTP client, you may need to provide a “Remote Path”. On shared hosters it is typically “/public_html/”.&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Download &lt;a href=&quot;http://wordpress.org&quot;&gt;WordPress&lt;/a&gt; obviously. Extract somewhere because you’ll need it in a second.&lt;/li&gt;
+  &lt;li&gt;Log into the server and copy your extracted WordPress files onto the server. Wow, has it been a second already?
+    &lt;ol&gt;
+      &lt;li&gt;I wanted my blog under thinkaliker.com/blog, so I created a new folder “blog” and copied the contents of the WordPress installation into that folder. If you want it as your actual website then just copy it into the root folder.
+ 2.If you want it on a subdomain, for example blog.thinkaliker.com, you will most likely need a separate server to host it on. Simply add it to the CloudFlare DNS record.&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Navigate to wherever you put your blog (eg. thinkaliker.com/blog). WordPress will now ask you a bunch of questions, including access to a MySQL database.
+    &lt;ol&gt;
+      &lt;li&gt;In the ServersFree control panel, scroll down and click the MySQL databases icon.&lt;/li&gt;
+      &lt;li&gt;Create a new database with whatever name you want and a password you can remember.&lt;/li&gt;
+      &lt;li&gt;Your database should now be created. Go back to WordPress and put in all relevant information.&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;That should be it! WordPress should take care of the rest.
+    &lt;ul&gt;
+      &lt;li&gt;You may need to double check in WordPress settings that the URL of the blog is correct (eg. It should say thinkaliker.com/blog and not just thinkaliker.com if you put it in a folder.)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;5-other-content&quot;&gt;5. Other Content&lt;/h2&gt;
+
+&lt;p&gt;Congratulations! You should now have a fully functioning blog at least. “But Adam,” you say. “I want a real website!”.&lt;/p&gt;
+
+&lt;p&gt;Ah, but this part is up to you.&lt;/p&gt;
+
+&lt;p&gt;Like hands on web design? Don’t know where to start? Start with &lt;a href=&quot;http://getbootstrap.com&quot;&gt;Bootstrap&lt;/a&gt;. Lots of tutorials and handy documentation. And it’s a really good framework. Responsiveness is good.&lt;/p&gt;
+
+&lt;p&gt;Just want something to look nice? I recommend &lt;a href=&quot;http://html5up.net&quot;&gt;html5up&lt;/a&gt;. Lots of nice looking templates that you can modify and make your own.&lt;/p&gt;
+
+&lt;p&gt;Have no idea? Move your WordPress site to the main folder and customize from there!&lt;/p&gt;
+
+&lt;p&gt;Need a good way to edit your website? I have personally used &lt;a href=&quot;http://brackets.io&quot;&gt;Brackets&lt;/a&gt; and Adobe Dreamweaver (coincidentally both by Adobe but Brackets is open source), but sometimes Notepad, Sublime Text or even Vim will work, as long as you have FTP access to the server.&lt;/p&gt;
+
+&lt;h2 id=&quot;6-&quot;&gt;6. ????&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;“I’m not seeing my changes! Why does the site not change when I upload files to it?”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Good question. It’s because we enabled CloudFlare, and it will cache your content for a certain amount of time. I personally find that enabling CloudFlare’s Development Mode works pretty well, just be sure to Shift+F5 your browser so that your browser cache is refreshed as well.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“I’m using ServersFree and I want to change domains! What do?”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Unfortunately, what I’ve found is that these shared hosting servers tend to lock your content to a single domain name. The best thing to do is to create another server under your account with your new domain and copy all of your stuff over. You’ll need to update your CloudFlare DNS records to point at the new IP (again, unique IP not server IP).&lt;/p&gt;
+
+&lt;h2 id=&quot;7-profit&quot;&gt;7. Profit&lt;/h2&gt;
+
+&lt;p&gt;Hey, thanks for reading! Again, if you have any questions/corrections/additions/complaints/friend requests/concerns feel free to tweet at me on Twitter. &lt;a href=&quot;http://thinkaliker.com/links&quot;&gt;Or any of my other social media&lt;/a&gt;. &lt;del&gt;I mean, you could leave a comment below but the chances of me seeing it are pretty slim.&lt;/del&gt; (I haven’t figured out commenting yet, coming later in 2016!)&lt;/p&gt;
+</description>
+        <pubDate>Thu, 29 Jan 2015 03:24:29 +0000</pubDate>
+        <link>http://thinkaliker.com/blog/how-to-website</link>
+        <guid isPermaLink="true">http://thinkaliker.com/blog/how-to-website</guid>
+        
+        
+        <category>post</category>
+        
+      </item>
+    
+    
+    
+      <item>
+        <title>Helping People</title>
+        <description>&lt;p&gt;I like helping people. It feels good to help people.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;I do believe that everyone should help people. And not in the sense that you have to go out and do 50 thousand hours of volunteer work or donate $1 million but the little things. (I mean you can donate tons of money and do lots of volunteer work too, no one’s stopping you).&lt;/p&gt;
+
+&lt;p&gt;I like making people happy. It makes me happy to see people happy. It’s the little things, making a (usually stupid) joke, hanging out, keeping company, whatever. It makes me sad when people are sad and it’s the worst when I can’t do anything about it.&lt;/p&gt;
+
+&lt;p&gt;There’s the super obvious thing of doing stuff like trash cleanup and stuff, but that’s more of helping the environment or whatever. It’s still a good thing to do, don’t get me wrong, but I just don’t get as much personal satisfaction. But as an Eagle Scout it’s kinda out of habit now.&lt;/p&gt;
+
+&lt;p&gt;But if I can help someone by giving them some advice or making some absolutely stupid off-hand comment which makes them laugh, then I will be satisfied.&lt;/p&gt;
+
+&lt;p&gt;I’m not really sure why I wanted to write this down. I kept thinking about it and wanted to get my thoughts out somewhere. Maybe I’ll do a technical write up next or something.&lt;/p&gt;
+
+&lt;p&gt;Maybe I should vlog.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 17 Jan 2015 13:48:29 +0000</pubDate>
+        <link>http://thinkaliker.com/blog/helping-people</link>
+        <guid isPermaLink="true">http://thinkaliker.com/blog/helping-people</guid>
+        
+        
+        <category>post</category>
+        
+      </item>
+    
+    
+    
+    
+  </channel>
+</rss>
