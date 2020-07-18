@@ -1,23 +1,25 @@
 <div id="row" class="content">
-  <div>&copy; thinkaliker (Adam Chao) 2020 - <small>Last modified 2020-06-10.</small></div>
+  <div>&copy; thinkaliker (Adam Chao) 2020 - <small>Last modified 2020-07-15.</small></div>
 </div>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/3.2.2/anchor.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.2.2/anchor.min.js"></script>
 <script>
   anchors.add().remove('h6');
   'use strict';
 
   document.getElementsByClassName("expand")[0].addEventListener('click', toggle, false);
+
   function toggle() {
     if (document.getElementsByClassName("expand-div")[0].style.display == 'none') {
-      document.getElementsByClassName("expand-div")[0].style.display='block';
+      document.getElementsByClassName("expand-div")[0].style.display = 'block';
     } else {
-      document.getElementsByClassName("expand-div")[0].style.display='none';
+      document.getElementsByClassName("expand-div")[0].style.display = 'none';
     }
   }
+
   function onetime() {
-    if (document.getElementById("menu-desktop").offsetHeight != 0 ) {
-      document.getElementsByClassName("expand-div")[0].style.display='none';
+    if (document.getElementById("menu-desktop").offsetHeight != 0) {
+      document.getElementsByClassName("expand-div")[0].style.display = 'none';
     }
   }
   window.addEventListener("resize", onetime);
