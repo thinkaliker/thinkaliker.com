@@ -3,7 +3,7 @@ layout: post
 title:  "College Stories #1"
 date:   2013-11-14 14:30:29 -0700
 categories: archive
-permalink: /blog/college-stories-1
+slug: college-stories-1
 author: Adam
 description: Tales of my college freshman roommate.
 excerpt_separator: <!--more-->

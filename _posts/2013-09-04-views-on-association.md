@@ -3,7 +3,7 @@ layout: post
 title:  "Views on association"
 date:   2013-09-04 22:14:29 -0700
 categories: archive
-permalink: /blog/views-on-association
+slug: views-on-association
 author: Adam
 description: I'm not really going to bother reading what I wrote
 excerpt_separator: <!--more-->

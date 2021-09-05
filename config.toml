@@ -1,0 +1,86 @@
+# DO NOT REMOVE THIS
+theme = "hugo-theme-codex" 
+
+# Override these settings with your own
+title = "thinkaliker"
+languageCode = "en-us"
+baseURL = "https://thinkaliker.com/"
+copyright = "© {year} thinkaliker"
+
+# Add your Disqus shortname here.
+# disqusShortname = ""
+
+# Add your Google Analytics identifier: UA-XXXXXXXX-X
+# googleAnalytics = "" 
+
+# Optional params
+[params]
+  # Follow the Hugo date/time format reference here: 
+  # https://gohugo.io/functions/format/#gos-layout-string
+  dateFormat = "2006-01-01"
+
+  # Links to your social accounts, comment/uncomment as needed. Icons will be displayed for those specified.
+  twitter = "https://twitter.com/thinkaliker"
+  github = "https://github.com/thinkaliker"
+  # email = "mailto:<your email>"
+  # mastodon = "https://mastodon.social/@nickname"
+  # facebook = "https://facebook.com/<your handle>"
+  # gitlab = "https://gitlab.com/<your handle>"
+  instagram = "https://instagram.com/thinkaliker"
+  # linkedin = "<link to your profile>"
+  youtube = "https://www.youtube.com/channel/thinkaliker"
+  
+  # Titles for your icons (shown as tooltips), and also their display order.
+  # Currently, these icons are supported: 
+  #   "Twitter", "GitHub", "Email", "Mastodon", "Facebook", "GitLab", "Instagram", "LinkedIn", "YouTube"
+  iconOrder = ["Twitter", "GitHub", "Instagram", "YouTube"]
+
+  # Metadata for Twitter cards, defaults to params.twitter
+  twitterSite = "@thinkaliker"
+  twitterAuthor = "@thinkaliker"
+
+  # Set to true to display page title in table of contents in blog posts.
+  showPageTitleInTOC = false
+
+# This disables Hugo's default syntax highlighting in favor
+# of prismjs. If you wish to use Hugo's default syntax highlighting
+# over prismjs, remove this. You will also need to remove the prismjs
+# vendor script in layouts/blog/single.html.
+[markup]
+  [markup.highlight]
+    codeFences = false
+    
+  # Set to false to disallow raw HTML in markdown files
+  [markup.goldmark.renderer]
+      unsafe = true
+
+# Controls the navigation
+[[menu.main]]
+  identifier = "home"
+  name = "01 home"
+  title = "Home"
+  url = "/"
+
+[[menu.main]]
+  identifier = "about"
+  name = "02 about"
+  title = "About"
+  url = "/about"
+
+[[menu.main]]
+  identifier = "blog"
+  name = "03 blog"
+  title = "Blog"
+  url = "/blog"
+
+[[menu.main]]
+  identifier = "projects"
+  name = "04 projects"
+  title = "Projects"
+  url = "/projects"
+
+[[menu.main]]
+  identifier = "links"
+  name = "05 links"
+  title = "Links"
+  url = "/links"

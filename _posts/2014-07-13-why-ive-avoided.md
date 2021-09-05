@@ -3,7 +3,7 @@ layout: post
 title:  "Why I've Avoided"
 date:   2014-07-13 15:17:29 -0700
 categories: archive
-permalink: /blog/why-ive-avoided
+slug: why-ive-avoided
 author: Adam
 description: lol anime rant
 excerpt_separator: <!--more-->

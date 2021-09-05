@@ -3,7 +3,7 @@ layout: post
 title:  "Don't be Scared of Technology"
 date:   
 categories: post
-permalink: /blog/dont-be-scared-of-technology
+slug: dont-be-scared-of-technology
 author: Adam
 ---
 -the future is technology and if you arent keeping up you should be worried
