@@ -1,9 +1,10 @@
 ---
 title: "{{ replace .TranslationBaseName "-" " " | title }}"
 date: {{ .Date }}
-slug: ""
+slug: "{{title }}"
 description: ""
 keywords: []
+author: Adam
 draft: true
 tags: []
 math: false
