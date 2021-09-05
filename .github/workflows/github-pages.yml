@@ -27,6 +27,6 @@ jobs:
       - name: Deploy
         uses: chabad360/hugo-gh-pages@master
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          githubToken: ${{ secrets.GITHUB_TOKEN }}
           cname: thinkaliker.com
           branch: gh-pages
