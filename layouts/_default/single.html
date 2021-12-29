@@ -10,16 +10,20 @@
         <div class="post">
           <header class="post__header">
             <h1 id="post__title">{{.Title}}</h1>
-            {{ if .Date }}<time datetime="{{ .Date }}" class="post__date">{{ .Date.Format $dateFormat }}</time> {{ end }}
             {{ if isset .Params "author" }}
-            <span class="post__date">by {{ .Params.Author }}</span>
-            {{ end }}
-          </header>
-          {{ if isset .Params "author" }}
             <a class="pagination__item" href="/blog">
               <span class="pagination__title">&laquo; Back to blog</span>
             </a>
-          {{ end }}
+            {{ end }}
+            {{ if .Date }}
+            <span class="post__date">Posted </span>
+            <time datetime="{{ .Date }}" class="post__date">{{ .Date.Format $dateFormat }}</time>
+            {{ end }}
+            {{ if isset .Params "author" }}
+            <span class="post__date">by {{ .Params.Author }}</span>
+            {{ end }}
+            <span class="post__wordstats"> // {{ .WordCount }} words / ~{{ .ReadingTime }} min read</span>
+          </header>
           <article class="post__content">
               {{ if isset .Params "image" }}
               <img src="/img/{{ .Params.Image }}" class="blogimage" />
@@ -29,8 +33,9 @@
                   {{ partial "math.html" . }}
               {{ end }}
           </article>
-          <!-- {{ partial "tags.html" .}} {{ partial "post-pagination.html" .}}
-          {{ template "_internal/disqus.html" . }} -->
+          {{ partial "tags.html" .}}
+          {{ partial "post-pagination.html" .}}
+          <!-- {{ template "_internal/disqus.html" . }} -->
           {{ if isset .Params "author" }}
             <a class="pagination__item" href="/blog">
               <span class="pagination__title">&laquo; Back to blog</span>
