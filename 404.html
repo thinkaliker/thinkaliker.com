@@ -1,4 +1,4 @@
-<!doctype html><html lang=en-us>
+<!doctype html><html lang=en-us data-theme>
 <head>
 <title>404 Page not found | thinkaliker</title>
 <meta charset=utf-8>
@@ -14,8 +14,8 @@
 <meta name=twitter:site content="@thinkaliker">
 <meta name=twitter:creator content="https://twitter.com/thinkaliker">
 <link rel="shortcut icon" type=image/png href=/favicon.ico>
-<link type=text/css rel=stylesheet href=/css/404.min.2b1ffedfa1cd39e26610d196bbb8604dde61be38e0eb9245f86e40a758e86697.css integrity="sha256-Kx/+36HNOeJmENGWu7hgTd5hvjjg65JF+G5Ap1joZpc=">
-<link type=text/css rel=stylesheet href=/css/custom.min.0bdb120b98ffc5deb266ce18b19b297bbfb7422f2795e9c2248e6dc48979adf0.css integrity="sha256-C9sSC5j/xd6yZs4YsZspe7+3Qi8nlenCJI5txIl5rfA=">
+<link type=text/css rel=stylesheet href=/css/404.min.b4ffa7175f65d6a42a03eace7eb36f65c4adc91b3cc572362952befb9317cb39.css integrity="sha256-tP+nF19l1qQqA+rOfrNvZcStyRs8xXI2KVK++5MXyzk=">
+<link type=text/css rel=stylesheet href=/css/custom.min.bfe7c5fcdac54d86fd1124c28ef24284e7147018ce74b01249f637281ab3962b.css integrity="sha256-v+fF/NrFTYb9ESTCjvJChOcUcBjOdLASSfY3KBqzlis=">
 <script type=application/ld+json>{"@context":"http://schema.org","@type":"WebSite","url":"https:\/\/thinkaliker.com\/404.html","name":"404 Page not found","author":{"@type":"Person","name":""},"description":""}</script>
 </head>
 <body>
@@ -45,6 +45,9 @@
 </li>
 </ul>
 </nav>
+<div class=theme-switcher>
+</div>
+<script>const STORAGE_KEY='user-color-scheme',defaultTheme=detectCurrentScheme();let currentTheme,switchButton,autoDefinedScheme=window.matchMedia('(prefers-color-scheme: dark)');const autoChangeScheme=a=>{currentTheme=a.matches?'dark':'light',document.documentElement.setAttribute('data-theme',currentTheme),changeButtonText()};function setAttributes(){currentTheme=='dark'&&document.documentElement.setAttribute('data-theme','dark'),currentTheme=='auto'&&(autoChangeScheme(autoDefinedScheme),autoDefinedScheme.addListener(autoChangeScheme)),currentTheme=='light'&&document.documentElement.setAttribute('data-theme','light')}document.addEventListener('DOMContentLoaded',function(){switchButton=document.querySelector('.theme-switcher'),switchButton.addEventListener('click',switchTheme,!1),currentTheme=detectCurrentScheme(),setAttributes(),changeButtonText(),window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change',a=>{switchTheme(),setAttributes()})});function detectCurrentScheme(){return localStorage.getItem(STORAGE_KEY)?localStorage.getItem(STORAGE_KEY):defaultTheme?defaultTheme:window.matchMedia?window.matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light':'light'}function changeButtonText(){switchButton.textContent=currentTheme=='dark'?"dark":"light"}function switchTheme(a){currentTheme=='dark'?(localStorage.setItem(STORAGE_KEY,'light'),document.documentElement.setAttribute('data-theme','light'),currentTheme='light'):(localStorage.setItem(STORAGE_KEY,'dark'),document.documentElement.setAttribute('data-theme','dark'),currentTheme='dark'),changeButtonText()}</script>
 <main>
 <article>
 <h1>
