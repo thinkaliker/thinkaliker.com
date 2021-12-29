@@ -13,6 +13,9 @@ copyright = "© {year} thinkaliker"
 # Add your Google Analytics identifier: UA-XXXXXXXX-X
 # googleAnalytics = "" 
 
+[author]
+  name = "Adam"
+
 # Optional params
 [params]
   # Follow the Hugo date/time format reference here: 

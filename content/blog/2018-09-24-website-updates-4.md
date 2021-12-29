@@ -8,6 +8,7 @@ author: Adam
 description: I updated my website! Again!
 excerpt_separator: <!--more-->
 draft: false
+tags: ["website-update"]
 ---
 
 Phew, my last blog post was from 2 years ago? Let's fix that.

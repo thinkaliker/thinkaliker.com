@@ -7,6 +7,7 @@ slug: website-updates
 author: Adam
 description: The first website update!
 draft: false
+tags: ["website-update"]
 ---
 So I redid my website design.
 

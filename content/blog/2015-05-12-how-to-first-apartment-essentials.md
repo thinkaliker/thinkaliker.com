@@ -9,6 +9,7 @@ image: apartmentessentials.png
 description: A list of things you might need for your first apartment!
 excerpt_separator: <!--more-->
 draft: false
+tags: ["how-to"]
 ---
 So this was the first year I lived in an apartment by myself and I wanted to create a list of essentials that I found particularly helpful to have the first time living in an apartment. Sorted by living spaces.
 

@@ -6,9 +6,9 @@ description: "Another website update?"
 author: Adam
 keywords: []
 draft: false
-tags: []
 math: false
 toc: false
+tags: ["website-update"]
 ---
 
 I seem to only make blog posts whenever I have something to talk about/redesign my website.

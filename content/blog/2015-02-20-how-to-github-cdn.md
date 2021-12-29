@@ -9,6 +9,7 @@ image: githubcdn.png
 description: Create your very own CDN with GitHub!
 excerpt_separator: <!--more-->
 draft: false
+tags: ["how-to"]
 ---
 
 I found out how easy it was to use [GitHub Pages](http://pages.github.com) to create your very own free CDN for static files.

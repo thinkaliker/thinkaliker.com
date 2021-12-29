@@ -9,6 +9,7 @@ image: techsimplified_cpus.png
 description: I explain how RAM, Hard Drives and CPUs work using an ice analogy!
 excerpt_separator: <!--more-->
 draft: false
+tags: ["tech-simplified"]
 ---
 I often get asked by my friends to explain technology to them, and seeing as the majority of the world does not understand HOW computers work, I use analogies to help. In this installment, I'll briefly explain how RAM, Hard Drives, and CPUs work.
 

@@ -8,6 +8,7 @@ author: Adam
 description: I updated my website! Yay!
 excerpt_separator: <!--more-->
 draft: false
+tags: ["website-update"]
 ---
 A fresh coat of paint!
 
