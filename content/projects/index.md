@@ -11,6 +11,10 @@ description: This page lists some of the projects Adam has worked on.
 
 + [Github](http://github.com/thinkaliker) - this is what you wanted, right? Repositories and more. There's a lot of stuff in there. Scripts, old projects, and even some experiments.
 
+# Reviews
+
++ [okreviews](https://okrevie.ws) - Editor-in-chief, contributor
+
 # Podcast
 
 + [Case Study](https://casestudy.show) - Co-host
@@ -29,10 +33,12 @@ description: This page lists some of the projects Adam has worked on.
 + ~~[San Diego Tzu Shao](http://sandiegotzushao.com) - Design~~
 
 # Experiments (incomplete list)
+
 + [Weather](http://weather.thinkaliker.com) - really big weather display (Node.js, forecast.io)
 + [HexClock](http://cdn.thinkaliker.com/HexClock) - JS clock colored with hex values
 + [progressclock](http://cdn.thinkaliker.com/progressclock) - JS clock made with progressbars
 
 # Android
+
 + [orca](http://github.com/rhocode/orca) - Android app, UCR Citrus Hack 2015 Project
 + [slash](http://github.com/thinkaliker/slash) - Old project, needs reworking

@@ -10,6 +10,8 @@ description: This page gives you links to websites Adam has an account on.
 
 <a class="button button-clear" href="https://twitter.com/thinkaliker" target="_blank"><i class="fab fa-twitter"></i> Twitter</a>
 
+<a class="button button-clear" rel="me" href="https://mastodon.social/@thinkaliker" target="_blank"><i class="fab fa-mastodon"></i> Mastodon</a>
+
 <a class="button button-clear" href="https://youtube.com/thinkaliker" target="_blank"><i class="fab fa-youtube"></i> YouTube</a>
 
 <a class="button button-clear" href="https://instagram.com/thinkaliker" target="_blank"><i class="fab fa-instagram"></i> Instagram</a>
