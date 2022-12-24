@@ -36,7 +36,7 @@ copyright = "© {year} thinkaliker"
   # Titles for your icons (shown as tooltips), and also their display order.
   # Currently, these icons are supported: 
   #   "Twitter", "GitHub", "Email", "Mastodon", "Facebook", "GitLab", "Instagram", "LinkedIn", "YouTube"
-  iconOrder = ["Twitter", "GitHub", "Instagram", "YouTube"]
+  iconOrder = ["Twitter", "Mastodon", "GitHub", "Instagram", "YouTube"]
 
   # Metadata for Twitter cards, defaults to params.twitter
   twitterSite = "@thinkaliker"
